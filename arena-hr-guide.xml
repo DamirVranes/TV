@@ -50,114 +50,6 @@
     <icon src="https://ssc.a1.hr/ITV/pictures/logos/arena_sport_10.png" />
     <url>http://www.a1.hr</url>
   </channel>
-  <programme start="20241103010000 +0100" stop="20241103030000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Baseball – Mlb: World Series Game 7</title>
-    <desc lang="hr">MLB najviši je rang bejzbolskih natjecanja u Sjevernoj Americi i smatra se najjačim natjecanjem na svijetu. Pobjednik se odlučuje World Seriesom na četiri dobivena susreta.(n)</desc>
-  </programme>
-  <programme start="20241103030000 +0100" stop="20241103050000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Udinese – Juventus</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241103050000 +0100" stop="20241103070000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Arsenal – Shakhtar</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
-  </programme>
-  <programme start="20241103070000 +0100" stop="20241103083000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Rukomet – Europska Liga: Nantes – Barcelona</title>
-    <desc lang="hr">Ljubitelji rukometa će sigurno doći na svoje praćenjem utakmica drugog po jačini klupskog natjecanja za rukometaše u Europi. Obavezno popratite EHF kup!(n)</desc>
-  </programme>
-  <programme start="20241103083000 +0100" stop="20241103103000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Psg – Lens</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
-  </programme>
-  <programme start="20241103103000 +0100" stop="20241103120000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Košarka – Aba Liga: Krka – Zadar</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241103120000 +0100" stop="20241103123000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Serie A Show</title>
-    <desc lang="hr">Saznajte što je novo u svijetu sporta i lige u uzbudljivim minutama tjednog podcasta "Serie A Show"!(n)</desc>
-  </programme>
-  <programme start="20241103123000 +0100" stop="20241103143000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Napoli – Atalanta</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241103143000 +0100" stop="20241103150000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Netbusters</title>
-    <desc lang="hr">Prisjetite se svih golova iz posljednjeg kola engleske Premier lige. Uz predstavljanje najnovijih golova i izdvojenih top 5, emisija donosi i intervjue s igračima i trenerima.(n)</desc>
-  </programme>
-  <programme start="20241103150000 +0100" stop="20241103170000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Premier League: Tottenham – Aston Villa</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241103170000 +0100" stop="20241103190000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Le Havre – Montpellier</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
-  </programme>
-  <programme start="20241103190000 +0100" stop="20241103222500 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nfl: Baltimore – Denver</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241103222500 +0100" stop="20241104010000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nfl: Green Bay – Detroit</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241104010000 +0100" stop="20241104022000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">(ne)uspjeh Prvaka</title>
-    <desc lang="hr">Bivša rukometna zvijezda Mirza Džomba susreće se s uspješnim sportašima iz regije, s kojima razgovara o njihovom trnovitom putu do pobjedničkog postolja i manje vidljivoj strani sporta.(n)</desc>
-  </programme>
-  <programme start="20241104022000 +0100" stop="20241104050000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nfl: Minnesota – Indianapolis</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241104050000 +0100" stop="20241104070000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Salzburg – Dinamo Zagreb</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
-  </programme>
-  <programme start="20241104070000 +0100" stop="20241104083000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Rukomet – Europska Liga: Kiel – Nexe</title>
-    <desc lang="hr">Ljubitelji rukometa će sigurno doći na svoje praćenjem utakmica drugog po jačini klupskog natjecanja za rukometaše u Europi. Obavezno popratite EHF kup!(n)</desc>
-  </programme>
-  <programme start="20241104083000 +0100" stop="20241104103000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Psg – Lens</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
-  </programme>
-  <programme start="20241104103000 +0100" stop="20241104120000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Košarka – Aba Liga: Krka – Zadar</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241104120000 +0100" stop="20241104140000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Premier League: Newcastle – Arsenal</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241104140000 +0100" stop="20241104160000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Udinese – Juventus</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241104160000 +0100" stop="20241104170000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Francuska Liga: Pregled</title>
-    <desc lang="hr">Kola. Uživajte u zabavnim minutama ovog sportskog magazina i saznajte sve novosti vezane uz nogomet francuske lige!(n)</desc>
-  </programme>
-  <programme start="20241104170000 +0100" stop="20241104190000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Košarka – Aba Liga: Fmp – Partizan</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241104190000 +0100" stop="20241104200000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Magazin Europalige</title>
-    <desc lang="hr">U emisiji UEFA Europa League Magazine ispitujemo najnovije vijesti, istaknute trenutke i priče o natjecanjima i klubovima koji se natječu...(n)</desc>
-  </programme>
-  <programme start="20241104200000 +0100" stop="20241104210000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">(ne)uspjeh Prvaka</title>
-    <desc lang="hr">Sportski serijal bivšeg nogometaša Marija Stanića donosi priče uspješnih sportaša iz regije.(n)</desc>
-  </programme>
-  <programme start="20241104210000 +0100" stop="20241104230000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Celta – Getafe</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
-  </programme>
-  <programme start="20241104230000 +0100" stop="20241105000000 +0100" channel="Arena Sport 1 HD">
-    <title lang="hr">Španjolska Liga: Pregled</title>
-    <desc lang="hr">kola. Donosimo presjek najboljih trenutaka, sažetke i popratnu analizu utakmica iz španjolske nogometne lige.(n)</desc>
-  </programme>
   <programme start="20241105000000 +0100" stop="20241105021500 +0100" channel="Arena Sport 1 HD">
     <title lang="hr">Nogomet – Talijanska Liga: Parma – Genoa</title>
     <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
@@ -230,109 +122,121 @@
     <title lang="hr">Nogomet – Liga Prvaka: Slovan Bratislava – Dinamo Zagreb</title>
     <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103010000 +0100" stop="20241103040000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nfl: New York Jets – Houston</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241103040000 +0100" stop="20241103050000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Crash</title>
-    <desc lang="hr">Kad njihove ambicije premaše njihove vozačke sposobnosti, kada dobro osigurani utrkivači budu izbačeni iz zavoja, uvijek imamo pri ruci kameru.(n)</desc>
-  </programme>
-  <programme start="20241103050000 +0100" stop="20241103070000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Odbojka – Cev Liga Prvaka: Mladost – Gacko</title>
-    <desc lang="hr">Još sredinom 20. stoljeća najbolji europski klubovi igraju u ovome natjecanju najvišeg odbojkaškog klupskog ranga bez obzira što se Europska Odbojkaška federacija (CEV) formirala 60ih godina.(n)</desc>
-  </programme>
-  <programme start="20241103070000 +0100" stop="20241103093000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nhl: Ottawa – Tampa Bay</title>
-    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
-  </programme>
-  <programme start="20241103093000 +0100" stop="20241103110000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Rukomet – Ehf Lp: Nantes – Zagreb</title>
+  <programme start="20241106070000 +0100" stop="20241106083000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Rukomet – Ehf Lp: Psg – Sporting</title>
     <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
   </programme>
-  <programme start="20241103110000 +0100" stop="20241103130000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Košarka – Turska Liga: Anadolu Efes – Manisa</title>
-    <desc lang="hr">Turska košarkaška Super liga kao najjači razred profesionalne turske košarke sigurno je jedna od jačih liga na starome kontinentu. Stoga nemojte propustiti dvoboje jakih i popularnih turskih klubova.(n)</desc>
-  </programme>
-  <programme start="20241103130000 +0100" stop="20241103140000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Automobilizam Central European Rally: Complete Hl</title>
-    <desc lang="hr">Pratite Central European Rally, natjecanje koje se održava u sklopu Svjetskog prvenstva u reliju. Zemlje domaćini su Njemačka, Austrija i Češka.(n)</desc>
-  </programme>
-  <programme start="20241103140000 +0100" stop="20241103160000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Atletico Madrid – Las Palmas</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
-  </programme>
-  <programme start="20241103160000 +0100" stop="20241103170000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">(ne)uspjeh Prvaka</title>
-    <desc lang="hr">Bivša rukometna zvijezda Mirza Džomba susreće se s uspješnim sportašima iz regije, s kojima razgovara o njihovom trnovitom putu do pobjedničkog postolja i manje vidljivoj strani sporta.(n)</desc>
-  </programme>
-  <programme start="20241103170000 +0100" stop="20241103190000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Auxerre – Rennes</title>
+  <programme start="20241106083000 +0100" stop="20241106103000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Francuska Liga: Monaco – Angers</title>
     <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
   </programme>
-  <programme start="20241103190000 +0100" stop="20241103210000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Košarka – Aba Liga: Buducnost – Mega</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241103210000 +0100" stop="20241103213000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
-  </programme>
-  <programme start="20241103213000 +0100" stop="20241104010000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Košarka – Nba Liga: Brooklyn – Detroit</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
-  </programme>
-  <programme start="20241104010000 +0100" stop="20241104033000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Košarka – Nba Liga: New Orleans – Atlanta</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
-  </programme>
-  <programme start="20241104033000 +0100" stop="20241104050000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Rukomet – Ehf Lp: Nantes – Barcelona</title>
-    <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
-  </programme>
-  <programme start="20241104050000 +0100" stop="20241104070000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Odbojka – Cev Liga Prvaka: Mladost – Tirol</title>
-    <desc lang="hr">Još sredinom 20. stoljeća najbolji europski klubovi igraju u ovome natjecanju najvišeg odbojkaškog klupskog ranga bez obzira što se Europska Odbojkaška federacija (CEV) formirala 60ih godina.(n)</desc>
-  </programme>
-  <programme start="20241104070000 +0100" stop="20241104093000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nhl: Dallas – Florida</title>
-    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
-  </programme>
-  <programme start="20241104093000 +0100" stop="20241104120000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Baseball – Mlb: World Series Game 1</title>
-    <desc lang="hr">MLB najviši je rang bejzbolskih natjecanja u Sjevernoj Americi i smatra se najjačim natjecanjem na svijetu. Pobjednik se odlučuje World Seriesom na četiri dobivena susreta.(n)</desc>
-  </programme>
-  <programme start="20241104120000 +0100" stop="20241104140500 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Basket 3x3 – World Tour: Shanghai Završnica</title>
-    <desc lang="hr">Nikako nemojte propustiti najbolju 3 na 3 košarku dvobojima momčadi koje predstavljaju gradove širom svijeta. Koji grad će biti osvajač Fiba World Toura ove godine? Vrijedi pogledati!(n)</desc>
-  </programme>
-  <programme start="20241104140500 +0100" stop="20241104163000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nfl: Minnesota – Indianapolis</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241104163000 +0100" stop="20241104170000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Arena Specijal</title>
-    <desc lang="hr">Tin Srbić. Emisija "Arena specijal" donosi ekskluzivne intervjue s uspješnim i istaknutim sportašima, trenerima i drugim sportskim stručnjacima.(n)</desc>
-  </programme>
-  <programme start="20241104170000 +0100" stop="20241104190000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nogomet – Rumunjska Liga: Slobozia – Botosani</title>
-    <desc lang="hr">Pogledajte dvoboje ponajboljih nogometnih momčadi Rumunjske u jednoj od ponajboljih liga jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241104190000 +0100" stop="20241104210000 +0100" channel="Arena Sport 2 HD">
+  <programme start="20241106103000 +0100" stop="20241106120000 +0100" channel="Arena Sport 1 HD">
     <title lang="hr">Košarka – Aba Liga: Split – Spartak</title>
     <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
   </programme>
-  <programme start="20241104210000 +0100" stop="20241104230000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Košarka – Aba Liga: Mornar – Cibona</title>
+  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
+    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  </programme>
+  <programme start="20241106140000 +0100" stop="20241106150000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Pregled Kola</title>
+    <desc lang="hr">Serie A profesionalno je nogometno natjecanje koje broji 20 momčadi u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Serie A postala je sinonim za taktički nogomet.(n)</desc>
+  </programme>
+  <programme start="20241106150000 +0100" stop="20241106170000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Juniorska Liga Prvaka: Crvena Zvezda – Barcelona</title>
+    <desc lang="hr">Koja momčad će biti juniorski pobjednik Lige prvaka ili Uefa Youth League? Natjecanje koje će izroditi nove zvijezde europskog nogometa je preporuka za svakog pravog nogometnog entuzijasta.(n)</desc>
+  </programme>
+  <programme start="20241106170000 +0100" stop="20241106180000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Pregled Lige Prvaka</title>
+    <desc lang="hr">Sažetak 05. 11.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
+  </programme>
+  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Slovan Bratislava – Dinamo Zagreb</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241106200000 +0100" stop="20241106210000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Emisija: Liga Prvaka</title>
+    <desc lang="hr">Pogledajte najzanimljivije trenutke i vrhunce sezone iz Lige prvaka, godišnjeg klupskog nogometnog natjecanja koje organizira UEFA.(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Inter – Arsenal</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Emisija: Liga Prvaka</title>
+    <desc lang="hr">Pogledajte najzanimljivije trenutke i vrhunce sezone iz Lige prvaka, godišnjeg klupskog nogometnog natjecanja koje organizira UEFA.(n)</desc>
+  </programme>
+  <programme start="20241106233000 +0100" stop="20241107013000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Argentinska Liga: Boca Juniors – Godoy Cruz</title>
+    <desc lang="hr">Primera Division najviše je i najcjenjenije nogometno natjecanje u Argentini. Ligom su kroz povijest prošle legende od igrača koje su zauvijek promijenile nogometnu igru.(n)</desc>
+  </programme>
+  <programme start="20241107013000 +0100" stop="20241107033000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Argentinska Liga: Instituto – River Plate</title>
+    <desc lang="hr">Primera Division najviše je i najcjenjenije nogometno natjecanje u Argentini. Ligom su kroz povijest prošle legende od igrača koje su zauvijek promijenile nogometnu igru.(n)</desc>
+  </programme>
+  <programme start="20241107033000 +0100" stop="20241107050000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Košarka – Liga Prvaka: Igokea – Hapoel</title>
+    <desc lang="hr">FIBA je 2016. organizirala novi europski košarkaški turnir kao pandan trenutno najjačem kontinentalnom natjecanju za košarkaške klubove Eurolige. Provjerite kakvo je natjecanje Champions League!(n)</desc>
+  </programme>
+  <programme start="20241107050000 +0100" stop="20241107070000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Psg – Atletico Madrid</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241107070000 +0100" stop="20241107083000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Rukomet – Ehf Lp: Fredericia – Eurofarm</title>
+    <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
+  </programme>
+  <programme start="20241107083000 +0100" stop="20241107103000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Francuska Liga: St Etienne – Strasbourg</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241107103000 +0100" stop="20241107120000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Košarka – Aba Liga: Crvena Zvezda – Cedevita Olimpija</title>
     <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
   </programme>
-  <programme start="20241104230000 +0100" stop="20241104233000 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Pl Stories</title>
-    <desc lang="hr">Najuzbudljivije priče iz svijeta engleske premijer lige donosi vam ovaj sportski magazin.(n)</desc>
-  </programme>
-  <programme start="20241104233000 +0100" stop="20241105014500 +0100" channel="Arena Sport 2 HD">
-    <title lang="hr">Nogomet – Premier League: Fulham – Brentford</title>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Premier League: Tottenham – Aston Villa</title>
     <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Monza – Milan</title>
+    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107170000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Magazin Europalige</title>
+    <desc lang="hr">U emisiji UEFA Europa League Magazine ispitujemo najnovije vijesti, istaknute trenutke i priče o natjecanjima i klubovima koji se natječu...(n)</desc>
+  </programme>
+  <programme start="20241107170000 +0100" stop="20241107180000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Pregled Lige Prvaka</title>
+    <desc lang="hr">Sažetak 06. 11.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Inter – Arsenal</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241107200000 +0100" stop="20241107210000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Emisija Europaliga</title>
+    <desc lang="hr">Europska liga godišnje je nogometno klupsko natjecanje. Pogledajte novosti i saznajte informacije vezane uz ovo natjecanje!(n)</desc>
+  </programme>
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Europa Liga: Lazio – Porto</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  </programme>
+  <programme start="20241107230000 +0100" stop="20241108000000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Emisija Europaliga</title>
+    <desc lang="hr">Europska liga godišnje je nogometno klupsko natjecanje. Pogledajte novosti i saznajte informacije vezane uz ovo natjecanje!(n)</desc>
+  </programme>
+  <programme start="20241108000000 +0100" stop="20241108022000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Europa Liga: Man United – Paok</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  </programme>
+  <programme start="20241108022000 +0100" stop="20241108050000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nfl: Baltimore – Cincinnati</title>
+    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
+  </programme>
+  <programme start="20241108050000 +0100" stop="20241108070000 +0100" channel="Arena Sport 1 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Real Madrid – Milan</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
   <programme start="20241105014500 +0100" stop="20241105050000 +0100" channel="Arena Sport 2 HD">
     <title lang="hr">Košarka – Nba Liga: Atlanta – Boston</title>
@@ -386,117 +290,93 @@
     <title lang="hr">Odbojka – Cev Liga Prvaka: Mladost – Gacko</title>
     <desc lang="hr">Još sredinom 20. stoljeća najbolji europski klubovi igraju u ovome natjecanju najvišeg odbojkaškog klupskog ranga bez obzira što se Europska Odbojkaška federacija (CEV) formirala 60ih godina.(n)</desc>
   </programme>
-  <programme start="20241103010000 +0100" stop="20241103030000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Girona – Leganes</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  <programme start="20241106070000 +0100" stop="20241106100000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nhl: Ny Rangers – Ny Islanders</title>
+    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
   </programme>
-  <programme start="20241103030000 +0100" stop="20241103050000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Francuska Liga: St Etienne – Strasbourg</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Baseball – Mlb: World Series Game 3</title>
+    <desc lang="hr">MLB najviši je rang bejzbolskih natjecanja u Sjevernoj Americi i smatra se najjačim natjecanjem na svijetu. Pobjednik se odlučuje World Seriesom na četiri dobivena susreta.(n)</desc>
   </programme>
-  <programme start="20241103050000 +0100" stop="20241103070000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Liverpool – Brighton</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Basket 3x3 – World Tour: Amsterdam Završnica</title>
+    <desc lang="hr">Nikako nemojte propustiti najbolju 3 na 3 košarku dvobojima momčadi koje predstavljaju gradove širom svijeta. Koji grad će biti osvajač Fiba World Toura ove godine? Vrijedi pogledati!(n)</desc>
   </programme>
-  <programme start="20241103070000 +0100" stop="20241103090000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Monza – Milan</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  <programme start="20241106140000 +0100" stop="20241106163000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Košarka – Nba Liga: Brooklyn – Detroit</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103090000 +0100" stop="20241103093000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
+  <programme start="20241106163000 +0100" stop="20241106184500 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Europa Liga: Besiktas – Malmo</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103093000 +0100" stop="20241103100000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
+  <programme start="20241106184500 +0100" stop="20241106210000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Club Brugge – Aston Villa</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103100000 +0100" stop="20241103120000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Cska Moskva – Spartak Moskva</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Psg – Atletico Madrid</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103120000 +0100" stop="20241103130000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Netbusters X2</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  <programme start="20241106230000 +0100" stop="20241107010000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Inter – Arsenal</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103130000 +0100" stop="20241103150000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet: Premijer Liga Bih: Igman – Posušje</title>
-    <desc lang="hr">Ulaskom klubova iz Republike Srpske 2002. godine Premijer liga BiH dobiva svoj današnji format. 12 momčadi se nakon 22 odigrana kola dijeli na Ligu za prvaka i Ligu za ostanak.(n)</desc>
+  <programme start="20241107010000 +0100" stop="20241107030000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Rukomet – Ehf Lp: Magdeburg – Zagreb</title>
+    <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
   </programme>
-  <programme start="20241103150000 +0100" stop="20241103173000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Fa Cup: Boreham – Leyton Orient</title>
-    <desc lang="hr">Za najstarije nogometno natjecanje pod ingerencijom neke nogometne organizacije nije potrebna posebna najava. Uživajte u čarima i tradiciji koje pruža engleski klupski nogomet pred malim ekranima!(n)</desc>
+  <programme start="20241107030000 +0100" stop="20241107050000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Košarka – Nba Liga: Denver – Oklahoma</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103173000 +0100" stop="20241103193000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  <programme start="20241107050000 +0100" stop="20241107070000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvaka: Mladost – Gacko</title>
+    <desc lang="hr">Još sredinom 20. stoljeća najbolji europski klubovi igraju u ovome natjecanju najvišeg odbojkaškog klupskog ranga bez obzira što se Europska Odbojkaška federacija (CEV) formirala 60ih godina.(n)</desc>
   </programme>
-  <programme start="20241103193000 +0100" stop="20241103204500 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">Tommy. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  <programme start="20241107070000 +0100" stop="20241107100000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nhl: Detroit – Edmonton</title>
+    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
   </programme>
-  <programme start="20241103204500 +0100" stop="20241103230000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Nantes – O. Marseille</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Baseball – Mlb: World Series Game 4</title>
+    <desc lang="hr">MLB najviši je rang bejzbolskih natjecanja u Sjevernoj Americi i smatra se najjačim natjecanjem na svijetu. Pobjednik se odlučuje World Seriesom na četiri dobivena susreta.(n)</desc>
   </programme>
-  <programme start="20241103230000 +0100" stop="20241103233000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Basket 3x3 – World Tour: Macau Završnica</title>
+    <desc lang="hr">Nikako nemojte propustiti najbolju 3 na 3 košarku dvobojima momčadi koje predstavljaju gradove širom svijeta. Koji grad će biti osvajač Fiba World Toura ove godine? Vrijedi pogledati!(n)</desc>
   </programme>
-  <programme start="20241103233000 +0100" stop="20241104010000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Argentinska Liga: Lanus – Boca Juniors</title>
-    <desc lang="hr">Primera Division najviše je i najcjenjenije nogometno natjecanje u Argentini. Ligom su kroz povijest prošle legende od igrača koje su zauvijek promijenile nogometnu igru.(n)</desc>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Košarka – Nba Liga: Denver – Oklahoma</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241104010000 +0100" stop="20241104030000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Athletic Bilbao – Real Betis</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  <programme start="20241107160000 +0100" stop="20241107184500 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nfl: New York Jets – Houston</title>
+    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
   </programme>
-  <programme start="20241104030000 +0100" stop="20241104050000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Toulouse – Reims</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Europa Liga: Galatasaray – Tottenham</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104050000 +0100" stop="20241104070000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Europa Liga: Manchester United – Paok</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104070000 +0100" stop="20241104090000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Napoli – Atalanta</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  <programme start="20241107230000 +0100" stop="20241108010000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Nogomet – Europa Liga: Lazio – Porto</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104090000 +0100" stop="20241104100000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Shortlist</title>
-    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
+  <programme start="20241108010000 +0100" stop="20241108020000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">(ne)uspjeh Prvaka</title>
+    <desc lang="hr">(Ne)uspjeh Prvaka Sezona 2 Epizoda 16. Bivša rukometna zvijezda Mirza Džomba susreće se s uspješnim sportašima iz regije, s kojima razgovara o njihovom trnovitom putu do pobjedničkog postolja i manje vidljivoj strani sporta.(n)</desc>
   </programme>
-  <programme start="20241104100000 +0100" stop="20241104120000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Akron – Krylya</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  <programme start="20241108020000 +0100" stop="20241108050000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Košarka – Nba Liga: Chicago – Minnesota</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241104120000 +0100" stop="20241104140000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Barcelona – Espanyol</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
-  </programme>
-  <programme start="20241104140000 +0100" stop="20241104150000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Pregled Lige Prvaka</title>
-    <desc lang="hr">Sažetak 02.10.24.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
-  </programme>
-  <programme start="20241104150000 +0100" stop="20241104170000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241104170000 +0100" stop="20241104183000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Brest – Nice</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
-  </programme>
-  <programme start="20241104183000 +0100" stop="20241104210000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Empoli – Como</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241104210000 +0100" stop="20241104230000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet – Premier League: Fulham – Brentford</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241104230000 +0100" stop="20241105000000 +0100" channel="Arena Sport 3 HD">
-    <title lang="hr">Nogomet: Premier League – Pregled Kola</title>
-    <desc lang="hr">U ovom sportskom magazinu, donosimo vam pregled Premier League, kao i najnovije rezultate, tablice, statistiku i detalje svih utakmica!(n)</desc>
+  <programme start="20241108050000 +0100" stop="20241108070000 +0100" channel="Arena Sport 2 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvaka: Mladost – Tirol</title>
+    <desc lang="hr">Još sredinom 20. stoljeća najbolji europski klubovi igraju u ovome natjecanju najvišeg odbojkaškog klupskog ranga bez obzira što se Europska Odbojkaška federacija (CEV) formirala 60ih godina.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105020000 +0100" channel="Arena Sport 3 HD">
     <title lang="hr">Nogomet – Španjolska Liga: Celta – Getafe</title>
@@ -574,117 +454,129 @@
     <title lang="hr">Nogomet – Premier League: Man Utd – Chelsea</title>
     <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
   </programme>
-  <programme start="20241103000000 +0100" stop="20241103020000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Aba Liga: Derby – Dubai</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
+  <programme start="20241106070000 +0100" stop="20241106073000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Football Greatest</title>
+    <desc lang="hr">Arsenal. Nogometna povijest prožeta je sjajnim utakmicama koje su neke momčadi učinile sjajnim i zlatnim slovima upisale u povijest nogometa.(n)</desc>
   </programme>
-  <programme start="20241103020000 +0100" stop="20241103040000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Njemački Kup: Tsg 1899 Hoffenheim – 1. Fc Nurnberg</title>
-    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
-  </programme>
-  <programme start="20241103040000 +0100" stop="20241103060000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Puszcza – Lech</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241103060000 +0100" stop="20241103070000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Espn Dokumentarni Film</title>
-    <desc lang="hr">The Diplomat. Kolekcija sportskih dokumentarnih filmova.(n)</desc>
-  </programme>
-  <programme start="20241103070000 +0100" stop="20241103090000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Nba Liga: Dallas – Houston</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
-  </programme>
-  <programme start="20241103090000 +0100" stop="20241103110000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Premier League: Wolves – Crystal Palace</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241103110000 +0100" stop="20241103130000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Akron – Krylya</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
-  </programme>
-  <programme start="20241103130000 +0100" stop="20241103150000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Vtb Liga: Lokomotiv Kuban – Zenit</title>
-    <desc lang="hr">Košarkaška regionalna liga klubova Istočne i Sjeverne Europe se igra od 2008. godine. Uz okosnicu klubova iz Rusije dodatnu draž ligi pridonose klubovi njoj susjednih zemalja. Uživajte uz vaše ekrane!(n)</desc>
-  </programme>
-  <programme start="20241103150000 +0100" stop="20241103170000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Torino – Fiorentina</title>
+  <programme start="20241106073000 +0100" stop="20241106090000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Napoli – Atalanta</title>
     <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
   </programme>
-  <programme start="20241103170000 +0100" stop="20241103180000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Sepp Blatter</title>
-    <desc lang="hr">Joseph "Sepp" Blatter izabran je kao osmi predsjednik FIFA-e 1998. godine i obnašao je dužnost sve do 2016. Posebno priznanje njegove izvanrednosti jest uvrštenje u Kuću slavnih.(n)</desc>
+  <programme start="20241106090000 +0100" stop="20241106093000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Shortlist</title>
+    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
   </programme>
-  <programme start="20241103180000 +0100" stop="20241103200000 +0100" channel="Arena Sport 4 HD">
+  <programme start="20241106093000 +0100" stop="20241106100000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Shortlist</title>
+    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
+  </programme>
+  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Ruska Premier Liga: Rubin – Dinamo Moskva</title>
+    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  </programme>
+  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Bilbao – Betis</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  </programme>
+  <programme start="20241106140000 +0100" stop="20241106150000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Španjolska Liga: Pregled</title>
+    <desc lang="hr">Donosimo presjek najboljih trenutaka, sažetke i popratnu analizu utakmica iz španjolske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241106150000 +0100" stop="20241106170000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvakinja: Eczacibasi – Tent Obrenovac</title>
+    <desc lang="hr">Najjače žensko klupsko odbojkaško natjecanje koje po atraktivnosti i popularnosti ni malo ne zaostaje za muškom verzijom turnira. Samo godinu dana kasnije (1961. godine) i žene su dobile svoj turnir.(n)</desc>
+  </programme>
+  <programme start="20241106170000 +0100" stop="20241106184500 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Francuska Liga: St Etienne – Strasbourg</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241106184500 +0100" stop="20241106210000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Shakhtar – Young Boys</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Crvena Zvezda – Barcelona</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241106230000 +0100" stop="20241107000000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">La Liga World</title>
+    <desc lang="hr">Sportski magazin "La Liga World" posvećen je najvišoj španjolskoj nogometnoj ligi. Saznajte sve o klubovima, utakmicama i igračima iz La Lige.(n)</desc>
+  </programme>
+  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Barcelona – Espanyol</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  </programme>
+  <programme start="20241107020000 +0100" stop="20241107030000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet: Premier League – Pregled Kola</title>
+    <desc lang="hr">U ovom sportskom magazinu, donosimo vam pregled Premier League, kao i najnovije rezultate, tablice, statistiku i detalje svih utakmica!(n)</desc>
+  </programme>
+  <programme start="20241107030000 +0100" stop="20241107050000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Francuska Liga: Toulouse – Reims</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241107050000 +0100" stop="20241107070000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
+    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  </programme>
+  <programme start="20241107070000 +0100" stop="20241107073000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Football Greatest</title>
+    <desc lang="hr">Barcelona. Nogometna povijest prožeta je sjajnim utakmicama koje su neke momčadi učinile sjajnim i zlatnim slovima upisale u povijest nogometa.(n)</desc>
+  </programme>
+  <programme start="20241107073000 +0100" stop="20241107090000 +0100" channel="Arena Sport 3 HD">
     <title lang="hr">Nogomet – Talijanska Liga: Verona – Roma</title>
     <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
   </programme>
-  <programme start="20241103200000 +0100" stop="20241103204500 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Crash</title>
-    <desc lang="hr">Kad njihove ambicije premaše njihove vozačke sposobnosti, kada dobro osigurani utrkivači budu izbačeni iz zavoja, uvijek imamo pri ruci kameru.(n)</desc>
+  <programme start="20241107090000 +0100" stop="20241107093000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Shortlist</title>
+    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
   </programme>
-  <programme start="20241103204500 +0100" stop="20241103224500 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Inter – Venezia</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  <programme start="20241107093000 +0100" stop="20241107100000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Shortlist</title>
+    <desc lang="hr">Magazin koji se bavi prikazivanjem legendarnih i nezaboravnih trenutaka u svijetu sporta, kao i individualnim karijerama sportaša kroz povijest.(n)</desc>
   </programme>
-  <programme start="20241103224500 +0100" stop="20241104000000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Turska Liga: Anadolu Efes – Manisa</title>
-    <desc lang="hr">Turska košarkaška Super liga kao najjači razred profesionalne turske košarke sigurno je jedna od jačih liga na starome kontinentu. Stoga nemojte propustiti dvoboje jakih i popularnih turskih klubova.(n)</desc>
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Ruska Premier Liga: Akron – Kryla</title>
+    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
   </programme>
-  <programme start="20241104000000 +0100" stop="20241104020000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Aba Liga: Buducnost – Mega</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Girona – Leganes</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
   </programme>
-  <programme start="20241104020000 +0100" stop="20241104040000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Njemački Kup: Freiburg – Hsv</title>
-    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
+  <programme start="20241107140000 +0100" stop="20241107153000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Pregled Lige Prvaka</title>
+    <desc lang="hr">Sažetak 05. 11.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
   </programme>
-  <programme start="20241104040000 +0100" stop="20241104060000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Radomiak – Piast</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
+  <programme start="20241107153000 +0100" stop="20241107170000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Vikingur – Borac</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
-  <programme start="20241104060000 +0100" stop="20241104070000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">Angry Sky. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  <programme start="20241107170000 +0100" stop="20241107184500 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Kenny</title>
+    <desc lang="hr">Dokumentarni film o čuvenom škotskom nogometnom reprezentativcu i napadaču FC Liverpoola, Kennyju Dalglishu.(n)</desc>
   </programme>
-  <programme start="20241104070000 +0100" stop="20241104080000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
-    <desc lang="hr">Portugal – Španjolska. Emisija o najvećim međunarodnim nogometnim rivalstvima.(n)</desc>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Europa Liga: Olympiacos – Rangers</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104080000 +0100" stop="20241104100000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Nba Liga: Miami – Dallas</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Europa Liga: Hoffenheim – Lyon</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104100000 +0100" stop="20241104120000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Premier League: Newcastle – Arsenal</title>
+  <programme start="20241107230000 +0100" stop="20241108011500 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Bilbao – Betis</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  </programme>
+  <programme start="20241108011500 +0100" stop="20241108030000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Argentinska Liga: Velez – Tigre</title>
+    <desc lang="hr">Primera Division najviše je i najcjenjenije nogometno natjecanje u Argentini. Ligom su kroz povijest prošle legende od igrača koje su zauvijek promijenile nogometnu igru.(n)</desc>
+  </programme>
+  <programme start="20241108030000 +0100" stop="20241108050000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Francuska Liga: Brest – Nice</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241108050000 +0100" stop="20241108070000 +0100" channel="Arena Sport 3 HD">
+    <title lang="hr">Nogomet – Premier League: Burnemouth – City</title>
     <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241104120000 +0100" stop="20241104143000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Basket 3x3 – World Tour: Amsterdam Završnica</title>
-    <desc lang="hr">Nikako nemojte propustiti najbolju 3 na 3 košarku dvobojima momčadi koje predstavljaju gradove širom svijeta. Koji grad će biti osvajač Fiba World Toura ove godine? Vrijedi pogledati!(n)</desc>
-  </programme>
-  <programme start="20241104143000 +0100" stop="20241104160000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Košarka – Aba Liga: Partizan – Krka</title>
-    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
-  </programme>
-  <programme start="20241104160000 +0100" stop="20241104180000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Njemački Kup: Vfb Stuttgart – 1. Fc Kaiserslautern</title>
-    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
-  </programme>
-  <programme start="20241104180000 +0100" stop="20241104183000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Pregled Kola</title>
-    <desc lang="hr">Pregled Kola. Serie A profesionalno je nogometno natjecanje koje broji 20 momčadi u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Serie A postala je sinonim za taktički nogomet.(n)</desc>
-  </programme>
-  <programme start="20241104183000 +0100" stop="20241104204500 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Parma – Genoa</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241104204500 +0100" stop="20241104223000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Lazio – Cagliari</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241104223000 +0100" stop="20241105000000 +0100" channel="Arena Sport 4 HD">
-    <title lang="hr">Rukomet – Ehf Lp: Nantes – Barcelona</title>
-    <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105020000 +0100" channel="Arena Sport 4 HD">
     <title lang="hr">Košarka – Aba Liga: Split – Spartak</title>
@@ -754,53 +646,117 @@
     <title lang="hr">Nogomet – Poljska Liga: Puscza – Lech</title>
     <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
   </programme>
-  <programme start="20241103010000 +0100" stop="20241103133000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
+  <programme start="20241106060000 +0100" stop="20241106070000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nine For Ix</title>
+    <desc lang="hr">Diplomat. Povodom 40. godišnjice donošenja zakona usmjerenog protiv diskriminacije koji je imao ogroman utjecaj na svijet ženskog sporta, donosimo vam priče sportašica koje su se (iz)borile za bolji položaj...(n)</desc>
   </programme>
-  <programme start="20241103133000 +0100" stop="20241103160000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nogomet – Belgijska Liga: Genk – Antwerp</title>
-    <desc lang="hr">U sjeni tradicionalno nogometno bogatijih susjeda iz Nizozemske, Belgijska Jupiler Pro Liga sve bolje kotira na europskoj nogometnoj karti dobrim nastupima njenih klubova u međunarodnim natjecanjima.(n)</desc>
+  <programme start="20241106070000 +0100" stop="20241106083000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
+    <desc lang="hr">Engleska/Škotska. Emisija o najvećim međunarodnim nogometnim rivalstvima.(n)</desc>
   </programme>
-  <programme start="20241103160000 +0100" stop="20241103180000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nogomet – Škotski Liga Kup: Motherwell – Rangers</title>
-    <desc lang="hr">Škotski liga kup spada u drugo najznačajnije eliminacijsko nogometno natjecanje u Škotskoj nakon Škotskog kupa.(n)</desc>
+  <programme start="20241106083000 +0100" stop="20241106103000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Nba Liga: Dallas – Houston</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103180000 +0100" stop="20241103190000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Vaterpolo – Regionalna Liga: Jug – Jadran Hn</title>
-    <desc lang="hr">Regionalno vaterpolo natjecanje u kojemu nastupaju klubovi iz najjačih vaterpolo liga bivše Jugoslavije sigurno će zaokupiti pozornost svih iskrenih ljubitelja ovog vodenog sporta. Ne propustite!(n)</desc>
+  <programme start="20241106103000 +0100" stop="20241106120000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Premier League: Ipswich – Leicester</title>
+    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
   </programme>
-  <programme start="20241103190000 +0100" stop="20241103222500 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nfl: Redzone</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
+  <programme start="20241106120000 +0100" stop="20241106150000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Indycar Series: Milwaukee Race 1</title>
+    <desc lang="hr">500 milja duga utrka formula u Indianapolisu središnji je događaj IndyCar sezone, najpopularnijeg sjeverno američkog automobilističkog natjecanja.(n)</desc>
   </programme>
-  <programme start="20241103222500 +0100" stop="20241104010000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nfl: Redzone</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
-  </programme>
-  <programme start="20241104010000 +0100" stop="20241104150000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
-  </programme>
-  <programme start="20241104150000 +0100" stop="20241104170000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nhl: Ny Rangers – Ny Islanders</title>
-    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
-  </programme>
-  <programme start="20241104170000 +0100" stop="20241104190000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nogomet – Copa Sudamericana: Racing – Corinthians</title>
-    <desc lang="hr">Pratite Copu Sudamericanu, nogometno natjecanje koje svake godine okuplja najbolje klubove iz Južne Amerike.(n)</desc>
-  </programme>
-  <programme start="20241104190000 +0100" stop="20241104204500 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Košarka – Aba Liga: Crvena Zvezda – Cedevita Olimpija</title>
+  <programme start="20241106150000 +0100" stop="20241106160000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Aba Liga: Borac – Split</title>
     <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
   </programme>
-  <programme start="20241104204500 +0100" stop="20241104230000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Nogomet – Francuska 2. Liga: Ajaccio – Metz</title>
-    <desc lang="hr">Drugi razred francuskog klupskog nogometa zove se Ligue 2 te broji 20 klubova koji se bore za plasman u prvu francusku nogometnu ligu.(n)</desc>
+  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Njemački Kup: Vfl Wolfsburg – Borussia Dortmund</title>
+    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
   </programme>
-  <programme start="20241104230000 +0100" stop="20241105010000 +0100" channel="Arena Sport 5 HD">
-    <title lang="hr">Svjetsko Enduro Prvenstvo – Bahrain 8h</title>
-    <desc lang="hr">Pratite uzbudljive auto-utrke u kojima se sportski automobili natječu u izdržljivosti, a koje se održavaju pod nazivom "8 sati Bahraina".(n)</desc>
+  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet: Premijer Liga Bih: Zrinjski – Sarajevo</title>
+    <desc lang="hr">Ulaskom klubova iz Republike Srpske 2002. godine Premijer liga BiH dobiva svoj današnji format. 12 momčadi se nakon 22 odigrana kola dijeli na Ligu za prvaka i Ligu za ostanak.(n)</desc>
+  </programme>
+  <programme start="20241106200000 +0100" stop="20241106210000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Mi Živimo Za Košarku</title>
+    <desc lang="hr">KK Dinamo Zagreb. Sportska emisija koja donosi priče, vijesti i zanimljivosti iz svijeta košarke.(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241106223000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Bayern Munich – Benfica</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241106223000 +0100" stop="20241107000000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Rukomet – Europska Liga: Kiel – Nexe</title>
+    <desc lang="hr">Ljubitelji rukometa će sigurno doći na svoje praćenjem utakmica drugog po jačini klupskog natjecanja za rukometaše u Europi. Obavezno popratite EHF kup!(n)</desc>
+  </programme>
+  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Aba Liga: Derby – Dubai</title>
+    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
+  </programme>
+  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Njemački Kup: Vfb Stuttgart – 1. Fc Kaiserslautern</title>
+    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
+  </programme>
+  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Poljska Liga: Radomiak – Piast</title>
+    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
+  </programme>
+  <programme start="20241107060000 +0100" stop="20241107070000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">30 Za 30</title>
+    <desc lang="hr">Angry Sky. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  </programme>
+  <programme start="20241107070000 +0100" stop="20241107083000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
+    <desc lang="hr">Por/špa. Emisija o najvećim međunarodnim nogometnim rivalstvima.(n)</desc>
+  </programme>
+  <programme start="20241107083000 +0100" stop="20241107103000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Nba Liga: Minnesota – Denver</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107103000 +0100" stop="20241107120000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Premier League: Southampton – Everton</title>
+    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107150000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Indycar Series: Milwaukee Race 2</title>
+    <desc lang="hr">500 milja duga utrka formula u Indianapolisu središnji je događaj IndyCar sezone, najpopularnijeg sjeverno američkog automobilističkog natjecanja.(n)</desc>
+  </programme>
+  <programme start="20241107150000 +0100" stop="20241107160000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Aba Liga: Zadar – Zvezda</title>
+    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Njemački Kup: Tsg 1899 Hoffenheim – 1. Fc Nürnberg</title>
+    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107184500 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Mi Živimo Za Košarku</title>
+    <desc lang="hr">KK Dinamo Zagreb. Sportska emisija koja donosi priče, vijesti i zanimljivosti iz svijeta košarke.(n)</desc>
+  </programme>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Tsc – Lugano</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
+  </programme>
+  <programme start="20241107210000 +0100" stop="20241107223000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Betis – Celje</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
+  </programme>
+  <programme start="20241107223000 +0100" stop="20241108000000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Rukomet – Ehf Lp: Fredericia – Eurofarm</title>
+    <desc lang="hr">Najjače klupsko rukometno natjecanje samo po sebi je pozivnica da odvojite minimalno 60 minuta svoga vremena u dvobojima današnjih modernih "gladijatora" kako možemo slobodno nazvati rukometaše.(n)</desc>
+  </programme>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Košarka – Aba Liga: Buducnost – Mega</title>
+    <desc lang="hr">ABA liga koja se i često naziva Jadranska liga zbog geografskog položaja većine zemalja koje sudjeluju u njoj je regionalna košarkaška liga koja se igra na području srednje i jugoistočne Europe.(n)</desc>
+  </programme>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Njemački Kup: Rb Leipzig – Fc St. Pauli</title>
+    <desc lang="hr">Njemački kup pod imenom DFB pokal vam jamči uzbudljive nastupe čak 64 momčadi iz jedne od najjačih liga Europe. Hoće li pobijediti favoriti ili će ovo biti sezona iznenađenja? Nemojte propustiti!(n)</desc>
+  </programme>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Arena Sport 4 HD">
+    <title lang="hr">Nogomet – Poljska Liga: Gornik – Jagiellonia</title>
+    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
   </programme>
   <programme start="20241105010000 +0100" stop="20241105150000 +0100" channel="Arena Sport 5 HD">
     <title lang="hr">Najava Programa</title>
@@ -830,57 +786,53 @@
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103003000 +0100" stop="20241103133000 +0100" channel="Arena Sport 6 HD">
+  <programme start="20241106150000 +0100" stop="20241106173000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Nhl: Florida – Dallas</title>
+    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
+  </programme>
+  <programme start="20241106173000 +0100" stop="20241106190000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvakinja: Vakifbank – Calcit Kamnik</title>
+    <desc lang="hr">Najjače žensko klupsko odbojkaško natjecanje koje po atraktivnosti i popularnosti ni malo ne zaostaje za muškom verzijom turnira. Samo godinu dana kasnije (1961. godine) i žene su dobile svoj turnir.(n)</desc>
+  </programme>
+  <programme start="20241106190000 +0100" stop="20241106200000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
+    <desc lang="hr">Italija – Ex Yu. Emisija o najvećim međunarodnim nogometnim rivalstvima.(n)</desc>
+  </programme>
+  <programme start="20241106200000 +0100" stop="20241106220000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Košarka – Aba 2. Liga: Cedevita Junior – Tivat</title>
+    <desc lang="hr">ABA 2. liga novonastalo je regionalno košarkaško natjecanje u kojem 12 momčadi kroz 22 kola regionalne sezone i final four traži plasman u ABA ligu.(n)</desc>
+  </programme>
+  <programme start="20241106220000 +0100" stop="20241107000000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Nogomet – Ruska Premier Liga: Krasnodar – Orenburg</title>
+    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  </programme>
+  <programme start="20241107000000 +0100" stop="20241107150000 +0100" channel="Arena Sport 5 HD">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103133000 +0100" stop="20241103153000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Košarka – Turska Liga: Tofas – Bursaspor</title>
-    <desc lang="hr">Turska košarkaška Super liga kao najjači razred profesionalne turske košarke sigurno je jedna od jačih liga na starome kontinentu. Stoga nemojte propustiti dvoboje jakih i popularnih turskih klubova.(n)</desc>
+  <programme start="20241107150000 +0100" stop="20241107170000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Nhl: Toronto – Boston</title>
+    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
   </programme>
-  <programme start="20241103153000 +0100" stop="20241103161500 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Laliga Show</title>
-    <desc lang="hr">Pregledna emisija za nadolazeći dan utakmice LaLige. U La Liga Showu donosimo najnovije vijesti, uz analize momčadi.(n)</desc>
+  <programme start="20241107170000 +0100" stop="20241107180000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Međunarodna Nogometna Rivalstva</title>
+    <desc lang="hr">Engleska/Njemačka. Emisija o najvećim međunarodnim nogometnim rivalstvima.(n)</desc>
   </programme>
-  <programme start="20241103161500 +0100" stop="20241103183000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Barcelona – Espanyol</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  <programme start="20241107180000 +0100" stop="20241107203000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvakinja: Bostic – Stuttgart</title>
+    <desc lang="hr">Najjače žensko klupsko odbojkaško natjecanje koje po atraktivnosti i popularnosti ni malo ne zaostaje za muškom verzijom turnira. Samo godinu dana kasnije (1961. godine) i žene su dobile svoj turnir.(n)</desc>
   </programme>
-  <programme start="20241103183000 +0100" stop="20241103210000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Sevilla – Real Sociedad</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  <programme start="20241107203000 +0100" stop="20241107233000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Odbojka – Cev Liga Prvakinja: Conegliano – Mladost</title>
+    <desc lang="hr">Najjače žensko klupsko odbojkaško natjecanje koje po atraktivnosti i popularnosti ni malo ne zaostaje za muškom verzijom turnira. Samo godinu dana kasnije (1961. godine) i žene su dobile svoj turnir.(n)</desc>
   </programme>
-  <programme start="20241103210000 +0100" stop="20241103230000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Španjolska Liga: Betis – Bilbao</title>
-    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
+  <programme start="20241107233000 +0100" stop="20241108000000 +0100" channel="Arena Sport 5 HD">
+    <title lang="hr">Nogomet – Ruska Premier Liga: Fakel – Khimki</title>
+    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
   </programme>
-  <programme start="20241103230000 +0100" stop="20241104010000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Premier League: Manchester United – Chelsea</title>
-    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
-  </programme>
-  <programme start="20241104010000 +0100" stop="20241104140000 +0100" channel="Arena Sport 6 HD">
+  <programme start="20241108000000 +0100" stop="20241108150000 +0100" channel="Arena Sport 5 HD">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
-  </programme>
-  <programme start="20241104140000 +0100" stop="20241104160000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Psg – Lens</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
-  </programme>
-  <programme start="20241104160000 +0100" stop="20241104180000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Talijanska Liga: Bologna – Lecce</title>
-    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
-  </programme>
-  <programme start="20241104180000 +0100" stop="20241104201500 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Katowice – Kielce</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241104201500 +0100" stop="20241104220000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Fa Cup: Chesham Utd – Lincoln</title>
-    <desc lang="hr">Za najstarije nogometno natjecanje pod ingerencijom neke nogometne organizacije nije potrebna posebna najava. Uživajte u čarima i tradiciji koje pruža engleski klupski nogomet pred malim ekranima!(n)</desc>
-  </programme>
-  <programme start="20241104220000 +0100" stop="20241105000000 +0100" channel="Arena Sport 6 HD">
-    <title lang="hr">Nogomet – Belgijska Liga: Genk – Antwerp</title>
-    <desc lang="hr">U sjeni tradicionalno nogometno bogatijih susjeda iz Nizozemske, Belgijska Jupiler Pro Liga sve bolje kotira na europskoj nogometnoj karti dobrim nastupima njenih klubova u međunarodnim natjecanjima.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105150000 +0100" channel="Arena Sport 6 HD">
     <title lang="hr">Najava Programa</title>
@@ -910,121 +862,53 @@
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103010000 +0100" stop="20241103030000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Porto – Hoffenheim</title>
-    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  <programme start="20241106150000 +0100" stop="20241106170000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Francuska Liga: Lille – Lyon</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
   </programme>
-  <programme start="20241103030000 +0100" stop="20241103050000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Milan – Club Brugge</title>
+  <programme start="20241106170000 +0100" stop="20241106190000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Bologna – Lecce</title>
+    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  </programme>
+  <programme start="20241106190000 +0100" stop="20241106210000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Argentinska Liga: Newells – Huracan</title>
+    <desc lang="hr">Primera Division najviše je i najcjenjenije nogometno natjecanje u Argentini. Ligom su kroz povijest prošle legende od igrača koje su zauvijek promijenile nogometnu igru.(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Stuttgart – Atalanta</title>
     <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103050000 +0100" stop="20241103070000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Konferencijska Liga: Panathinaikos – Chelsea</title>
-    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
+  <programme start="20241106230000 +0100" stop="20241107000000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Sevilla – Real Sociedad</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
   </programme>
-  <programme start="20241103070000 +0100" stop="20241103080000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
-    <desc lang="hr">Sažetak 3. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
+  <programme start="20241107000000 +0100" stop="20241107150000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Najava Programa</title>
+    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103080000 +0100" stop="20241103100000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Paok – Plzen</title>
+  <programme start="20241107150000 +0100" stop="20241107170000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Francuska Liga: Monaco – Angers</title>
+    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  </programme>
+  <programme start="20241107170000 +0100" stop="20241107184500 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Verona – Roma</title>
+    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  </programme>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Europa Liga: Frankfurt – Slavia Prag</title>
     <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103100000 +0100" stop="20241103103000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Magazin Lige Prvaka</title>
-    <desc lang="hr">Pogledajte sportske novosti vezane uz jedan od najvažnijih nogometnih događaja, Ligu prvaka!(n)</desc>
-  </programme>
-  <programme start="20241103103000 +0100" stop="20241103110000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Greatest Club</title>
-    <desc lang="hr">Greatest Club – Arsenal. Nikako nemojte propustiti emisiju o najboljim nogometnim momčadima koje su obilježile svjetsku nogometnu povijest. Njihove uspone i padove pogledajte u ovoj dokumentarnoj emisiji na vašim tv ekranima!(n)</desc>
-  </programme>
-  <programme start="20241103110000 +0100" stop="20241103121500 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Pregled Lige Prvaka</title>
-    <desc lang="hr">Sažetak 02.10.24.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
-  </programme>
-  <programme start="20241103121500 +0100" stop="20241103144500 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Rad0miak – Piast</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241103144500 +0100" stop="20241103173000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Gornik – Jagiellonia</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241103173000 +0100" stop="20241103193000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Lech – Cracovia</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241103193000 +0100" stop="20241103213000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Košarka – Talijanska Liga: Bologna – Treviso</title>
-    <desc lang="hr">LBA liga ili Lega Basket Serie A je liga sa jednom jako dugom tradicijom u svijetu košarke. Jednim dijelom povijesti se smatrala i najjačom europskom ligom i time će sigurno privući vašu pozornost.(n)</desc>
-  </programme>
-  <programme start="20241103213000 +0100" stop="20241103230000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Pregled Lige Prvaka</title>
-    <desc lang="hr">Sažetak 23.10.24.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
-  </programme>
-  <programme start="20241103230000 +0100" stop="20241104010000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Salzburg – Dinamo</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
-  </programme>
-  <programme start="20241104010000 +0100" stop="20241104030000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Qarabag – Ajax</title>
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Europa Liga: Ajax – Maccabi</title>
     <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104030000 +0100" stop="20241104050000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Benfica – Feyenoord</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  <programme start="20241107230000 +0100" stop="20241108000000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Nogomet – Španjolska Liga: Barcelona – Espanyol</title>
+    <desc lang="hr">Primera se godinama smatra najboljom europskom nogometnom ligom. Osnovana je 1929. godine te broji 20 momčadi u utrci za prvaka Španjolske.(n)</desc>
   </programme>
-  <programme start="20241104050000 +0100" stop="20241104070000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Konferencijska Liga: Olimpija – Lask</title>
-    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
-  </programme>
-  <programme start="20241104070000 +0100" stop="20241104080000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
-    <desc lang="hr">3. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
-  </programme>
-  <programme start="20241104080000 +0100" stop="20241104100000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Bilbao – Slavia Prag</title>
-    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
-  </programme>
-  <programme start="20241104100000 +0100" stop="20241104103000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Magazin Lige Prvaka</title>
-    <desc lang="hr">Pogledajte sportske novosti vezane uz jedan od najvažnijih nogometnih događaja, Ligu prvaka!(n)</desc>
-  </programme>
-  <programme start="20241104103000 +0100" stop="20241104110000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Football Greatest</title>
-    <desc lang="hr">Bayern Munich. Nogometna povijest prožeta je sjajnim utakmicama koje su neke momčadi učinile sjajnim i zlatnim slovima upisale u povijest nogometa.(n)</desc>
-  </programme>
-  <programme start="20241104110000 +0100" stop="20241104120000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Pregled Lige Prvaka</title>
-    <desc lang="hr">Sažetak 19.09.2024.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
-  </programme>
-  <programme start="20241104120000 +0100" stop="20241104140000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Konferencijska Liga: Fenerbahce – Manchester United</title>
-    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
-  </programme>
-  <programme start="20241104140000 +0100" stop="20241104150000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
-    <desc lang="hr">3. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
-  </programme>
-  <programme start="20241104150000 +0100" stop="20241104170000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Konferencijska Liga: Panathinaikos – Chelsea</title>
-    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
-  </programme>
-  <programme start="20241104170000 +0100" stop="20241104190000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Young Boys – Inter</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
-  </programme>
-  <programme start="20241104190000 +0100" stop="20241104203000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Europa Liga: Athletic Bilbao – Slavia Prag</title>
-    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
-  </programme>
-  <programme start="20241104203000 +0100" stop="20241104230000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Zaglebie – Slask</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241104230000 +0100" stop="20241105010000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Brest – Leverkusen</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  <programme start="20241108000000 +0100" stop="20241108150000 +0100" channel="Arena Sport 6 HD">
+    <title lang="hr">Najava Programa</title>
+    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
   <programme start="20241105010000 +0100" stop="20241105030000 +0100" channel="Arena Sport 7 HD">
     <title lang="hr">Nogomet – Konferencijska Liga: Fenerbahce – Manchester United</title>
@@ -1091,124 +975,132 @@
     <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
   <programme start="20241106030000 +0100" stop="20241106050000 +0100" channel="Arena Sport 7 HD">
-    <title lang="hr">Nogomet – Liga Prvaka: Liverpool – Leverkusen</title>
-    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+    <title lang="hr">Nogomet – Premier League: Liverpool – Leverkusen</title>
+    <desc lang="hr">Od svojeg službenog početka 1992. godine samo se šest klubova okitilo naslovom prvaka jednog od najcjenjenijih europskih nogometnih natjecanja, engleske Premier lige.(n)</desc>
   </programme>
   <programme start="20241106050000 +0100" stop="20241106070000 +0100" channel="Arena Sport 7 HD">
     <title lang="hr">Nogomet – Konferencijska Liga: Panathinaikos – Chelsea</title>
     <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
-  <programme start="20241103000000 +0100" stop="20241103020000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Dallas – Houston</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241106070000 +0100" stop="20241106080000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
+    <desc lang="hr">2. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
   </programme>
-  <programme start="20241103020000 +0100" stop="20241103033000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Classic Games: Portland – Detroit</title>
-    <desc lang="hr">Košarka – NBA Classic Games: Portland – Detroit 1990.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Paok – Plzen</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103033000 +0100" stop="20241103040000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  <programme start="20241106100000 +0100" stop="20241106103000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Magazin Lige Prvaka</title>
+    <desc lang="hr">Pogledajte sportske novosti vezane uz jedan od najvažnijih nogometnih događaja, Ligu prvaka!(n)</desc>
   </programme>
-  <programme start="20241103040000 +0100" stop="20241103060000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Oklahoma City – Atlanta</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241106103000 +0100" stop="20241106110000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Greatest Club</title>
+    <desc lang="hr">Greatest Club Arsenal. Nikako nemojte propustiti emisiju o najboljim nogometnim momčadima koje su obilježile svjetsku nogometnu povijest. Njihove uspone i padove pogledajte u ovoj dokumentarnoj emisiji na vašim tv ekranima!(n)</desc>
   </programme>
-  <programme start="20241103060000 +0100" stop="20241103063000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  <programme start="20241106110000 +0100" stop="20241106120000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
+    <desc lang="hr">Sažetak 1/8 Finala. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
   </programme>
-  <programme start="20241103063000 +0100" stop="20241103083000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Golden State – Philadelphia</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Paok – Plzen</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103083000 +0100" stop="20241103100000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Best Of Enemies</title>
-    <desc lang="hr">Dokumentarac istražuje dugogodišnje rivalstvo između dviju NBA momčadi, Lakersa i Celticsa, od pedesetih pa sve do osamdesetih.(n)</desc>
+  <programme start="20241106140000 +0100" stop="20241106150000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
+    <desc lang="hr">3. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
   </programme>
-  <programme start="20241103100000 +0100" stop="20241103120000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Dallas – Houston</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241106150000 +0100" stop="20241106170000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Tsc – Legia</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
-  <programme start="20241103120000 +0100" stop="20241103131500 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">Let Them Wear Towels. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  <programme start="20241106170000 +0100" stop="20241106190000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Real Madrid – Milan</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103131500 +0100" stop="20241103153000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Akhmat – Nizhny Novgorod</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  <programme start="20241106190000 +0100" stop="20241106210000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Bilbao – Slavia Prag</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103153000 +0100" stop="20241103174500 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Fakel – Khimki</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Feyenoord – Salzburg</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103174500 +0100" stop="20241103194500 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nogomet – Ruska Premier Liga: Krasnodar – Orenburg</title>
-    <desc lang="hr">Ruska nogometna liga je sve bliže kvalitetom ligama "Petice" i ne treba posebna pozivnica da na malim ekranima pratite dvoboje velikana kao što su Zenit St. Petersburg, CSKA i Spartak Moskva.(n)</desc>
+  <programme start="20241106230000 +0100" stop="20241107010000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Shakhtar – Young Boys</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241103194500 +0100" stop="20241103220000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nogomet: Premijer Liga Bih: Široki – Željezničar</title>
-    <desc lang="hr">Ulaskom klubova iz Republike Srpske 2002. godine Premijer liga BiH dobiva svoj današnji format. 12 momčadi se nakon 22 odigrana kola dijeli na Ligu za prvaka i Ligu za ostanak.(n)</desc>
+  <programme start="20241107010000 +0100" stop="20241107030000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Besiktas – Malmo</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103220000 +0100" stop="20241104000000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Charlotte – Boston</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107030000 +0100" stop="20241107050000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Stuttgart – Atalanta</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241104000000 +0100" stop="20241104020000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Minnesota – Denver</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107050000 +0100" stop="20241107070000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Olimpija – Lask</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
-  <programme start="20241104020000 +0100" stop="20241104033000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Classic Games: Ny Knicks – Boston</title>
-    <desc lang="hr">Košarka – NBA Classic Games: Ny Knicks – Boston 1984.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  <programme start="20241107070000 +0100" stop="20241107080000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Pregled</title>
+    <desc lang="hr">3. Kola. Drugo najprestižnije klupsko nogometno natjecanje u Europi je službeno pod okriljem UEFA-e od 1971. godine.(n)</desc>
   </programme>
-  <programme start="20241104033000 +0100" stop="20241104040000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Bilbao – Slavia Prag</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104040000 +0100" stop="20241104060000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Philadelphia – Cleveland</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107100000 +0100" stop="20241107103000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Magazin Lige Prvaka</title>
+    <desc lang="hr">Pregled vijesti vezanih uz zbivanja na nogometnom travnjaku, za sve ljubitelje nogometa.(n)</desc>
   </programme>
-  <programme start="20241104060000 +0100" stop="20241104063000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nba Action</title>
-    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  <programme start="20241107103000 +0100" stop="20241107110000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Greatest Club</title>
+    <desc lang="hr">Greatest Club Ajax. Nikako nemojte propustiti emisiju o najboljim nogometnim momčadima koje su obilježile svjetsku nogometnu povijest. Njihove uspone i padove pogledajte u ovoj dokumentarnoj emisiji na vašim tv ekranima!(n)</desc>
   </programme>
-  <programme start="20241104063000 +0100" stop="20241104083000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Boston – New York</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107110000 +0100" stop="20241107120000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Pregled Lige Prvaka</title>
+    <desc lang="hr">Sažetak 14. 02. 24.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
   </programme>
-  <programme start="20241104083000 +0100" stop="20241104100000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">When the Garden Was Eden. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Besiktas – Malmo</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104100000 +0100" stop="20241104120000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Minnesota – Phoenix G2</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107140000 +0100" stop="20241107150000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Pregled Lige Prvaka</title>
+    <desc lang="hr">Sažetak 05. 11. 24.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.(n)</desc>
   </programme>
-  <programme start="20241104120000 +0100" stop="20241104140000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: La Lakers – Phoenix</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107150000 +0100" stop="20241107170000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Panathinaikos – Chelsea</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
-  <programme start="20241104140000 +0100" stop="20241104160000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Finale Zapada Minnesota – Dallas G1</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241107170000 +0100" stop="20241107184500 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Slovan – Dinamo</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241104160000 +0100" stop="20241104170000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">The Son Of Kongo</title>
-    <desc lang="hr">Sportski dokumentarac o španjolskom profesionalnom košarkašu kongoanskog podrijetla, Sergeu Ibaki koji se nakon izbivanja zbog karijere vraća u svoju domovinu.(n)</desc>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Union – Roma</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104170000 +0100" stop="20241104190000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Classic Games: New Orleans – Atlanta</title>
-    <desc lang="hr">Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Aalkmar – Fenerbahce</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241104190000 +0100" stop="20241104220000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Nfl: Minnesota – Indianapolis</title>
-    <desc lang="hr">NFL najpopularnija je liga američkog nogometa na svijetu. Kroz 16 kola regularne sezone te doigravanje i Super Bowl NFL oduševljava sve poklonike ove veličanstvene igre.(n)</desc>
+  <programme start="20241107230000 +0100" stop="20241108010000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Feyenoord – Salzburg</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
-  <programme start="20241104220000 +0100" stop="20241105000000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Brooklyn – Detroit</title>
-    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  <programme start="20241108010000 +0100" stop="20241108030000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Europa Liga: Union – Roma</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  </programme>
+  <programme start="20241108030000 +0100" stop="20241108050000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Psv – Roma</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241108050000 +0100" stop="20241108070000 +0100" channel="Arena Sport 7 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Chelsea – Noah</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105020000 +0100" channel="Arena Sport 8 HD">
     <title lang="hr">Košarka – Nba Liga: New Orleans – Sacramento</title>
@@ -1227,7 +1119,7 @@
     <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
   </programme>
   <programme start="20241105063000 +0100" stop="20241105083000 +0100" channel="Arena Sport 8 HD">
-    <title lang="hr">Košarka – Nba Liga: Boston – La Lakers</title>
+    <title lang="hr">Košarka – Nba Liga: Boston – Denver</title>
     <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
   <programme start="20241105083000 +0100" stop="20241105100000 +0100" channel="Arena Sport 8 HD">
@@ -1282,29 +1174,129 @@
     <title lang="hr">Košarka – Nba Liga: Boston – Milwaukee</title>
     <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103000000 +0100" stop="20241103133000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
+  <programme start="20241106060000 +0100" stop="20241106063000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nba Action</title>
+    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
   </programme>
-  <programme start="20241103133000 +0100" stop="20241103160000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">Nogomet – Fa Cup: Sutton – Birmingham</title>
-    <desc lang="hr">Za najstarije nogometno natjecanje pod ingerencijom neke nogometne organizacije nije potrebna posebna najava. Uživajte u čarima i tradiciji koje pruža engleski klupski nogomet pred malim ekranima!(n)</desc>
+  <programme start="20241106063000 +0100" stop="20241106083000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Memphis – Golden State</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103160000 +0100" stop="20241103180000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">Nogomet – Championship: Milwall – Burnley</title>
+  <programme start="20241106083000 +0100" stop="20241106100000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">30 Za 30</title>
+    <desc lang="hr">Chasing Tyson. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  </programme>
+  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Brooklyn – Detroit</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Boston – Milwaukee</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Minnesota – Dallas</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241106160000 +0100" stop="20241106170000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Kenny</title>
+    <desc lang="hr">Dokumentarni film o čuvenom škotskom nogometnom reprezentativcu i napadaču FC Liverpoola, Kennyju Dalglishu.(n)</desc>
+  </programme>
+  <programme start="20241106170000 +0100" stop="20241106183000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Classic Games: New York – Boston</title>
+    <desc lang="hr">Košarka – NBA Classic Games: New York – Boston 1984.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  </programme>
+  <programme start="20241106183000 +0100" stop="20241106210000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Liga Prvaka: Igokea – Hapoel</title>
+    <desc lang="hr">FIBA je 2016. organizirala novi europski košarkaški turnir kao pandan trenutno najjačem kontinentalnom natjecanju za košarkaške klubove Eurolige. Provjerite kakvo je natjecanje Champions League!(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241106223000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nogomet – Championship: Preston – Sunderland</title>
     <desc lang="hr">Engleski Championship najposjećenija je druga liga na svijetu. Svake sezone 24 momčadi kreće u neizvjesnu utrku za plasmanom u Premier ligu.(n)</desc>
   </programme>
-  <programme start="20241103180000 +0100" stop="20241103190000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">30 Za 30</title>
-    <desc lang="hr">White, Blue And White. "30 for 30" serija je kritički priznatih sportskih dokumentaraca ESPN-a, koji su prvi zaživjeli kao proslava 30. godišnjice mreže.(n)</desc>
+  <programme start="20241106223000 +0100" stop="20241107000000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: La Lakers – Minnesota</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241103190000 +0100" stop="20241104000000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">Nhl: Ny Rangers – Ny Islanders</title>
-    <desc lang="hr">Najbolji hokej na svijetu igra se u profesionalnoj američko-kanadskoj ligi pod nazivom NHL (National Hockey League). Svake godine momčadi se bore za prestižni sportski trofej Stanley Cup.(n)</desc>
+  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Atlanta – Boston</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
-  <programme start="20241104000000 +0100" stop="20241105000000 +0100" channel="Arena Sport 9 HD">
-    <title lang="hr">Najava Programa</title>
-    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
+  <programme start="20241107020000 +0100" stop="20241107033000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Classic Games: Portland – Detroit</title>
+    <desc lang="hr">Košarka – NBA Classic Games: Portland – Detroit 1990.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  </programme>
+  <programme start="20241107033000 +0100" stop="20241107040000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nba Action</title>
+    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  </programme>
+  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Minnesota – Dallas</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107060000 +0100" stop="20241107063000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nba Action</title>
+    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  </programme>
+  <programme start="20241107063000 +0100" stop="20241107083000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Philadelphia – Brooklyn</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107083000 +0100" stop="20241107100000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Kenny</title>
+    <desc lang="hr">Dokumentarni film o čuvenom škotskom nogometnom reprezentativcu i napadaču FC Liverpoola, Kennyju Dalglishu.(n)</desc>
+  </programme>
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Atlanta – Boston</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Denver – La Clippers</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Miami – New York</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107170000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">The Son Of Kongo</title>
+    <desc lang="hr">Sportski dokumentarac o španjolskom profesionalnom košarkašu kongoanskog podrijetla, Sergeu Ibaki koji se nakon izbivanja zbog karijere vraća u svoju domovinu.(n)</desc>
+  </programme>
+  <programme start="20241107170000 +0100" stop="20241107183000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Classic Games: Philadelphia – La Lakers</title>
+    <desc lang="hr">Košarka – NBA Classic Games: Philadelphia – La Lakers 1983.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  </programme>
+  <programme start="20241107183000 +0100" stop="20241107184500 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nba Action</title>
+    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  </programme>
+  <programme start="20241107184500 +0100" stop="20241107204500 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nogomet – Konferencijska Liga: Legia – Dinamo Minsk</title>
+    <desc lang="hr">Od 2021. godine ljubitelji nogometa uživaju u Ligi Konferencija koju organizira UEFA. Ideja za nju pojavila se 2015. godine, a uključuje niže rangirane momčadi državnih prvenstava.(n)</desc>
+  </programme>
+  <programme start="20241107204500 +0100" stop="20241107223000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nogomet – Talijanska Liga: Genoa – Como</title>
+    <desc lang="hr">Još od davne 1929. godine kada je osnovana Serie A, dvadeset najboljih talijanskih nogometnih klubova svakog kolovoza kreće u utrku za laskavi naslov prvaka Italije.(n)</desc>
+  </programme>
+  <programme start="20241107223000 +0100" stop="20241108000000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">The Son Of Kongo</title>
+    <desc lang="hr">Sportski dokumentarac o španjolskom profesionalnom košarkašu kongoanskog podrijetla, Sergeu Ibaki koji se nakon izbivanja zbog karijere vraća u svoju domovinu.(n)</desc>
+  </programme>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: La Lakers – Minnesota</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
+  </programme>
+  <programme start="20241108020000 +0100" stop="20241108033000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Classic Games: Philadelphia – La Lakers</title>
+    <desc lang="hr">Košarka – NBA Classic Games: Philadelphia – La Lakers 1983.. Šestog dana lipnja, davne 1946. godine, zauvijek će promijeniti košarkašku igru. Tog dana u New Yorku je osnovano najelitnije svjetsko košarkaško natjecanje, NBA liga.(n)</desc>
+  </programme>
+  <programme start="20241108033000 +0100" stop="20241108040000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Nba Action</title>
+    <desc lang="hr">Tjedni magazin o NBA događajima.(n)</desc>
+  </programme>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Arena Sport 8 HD">
+    <title lang="hr">Košarka – Nba Liga: Miami – New York</title>
+    <desc lang="hr">NBA liga najcjenjenije je svjetsko košarkaško natjecanje u kojem 30 sjevernoameričkih momčadi svake jeseni kreće u lov na prsten namijenjen NBA prvaku.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105210000 +0100" channel="Arena Sport 9 HD">
     <title lang="hr">Najava Programa</title>
@@ -1318,37 +1310,25 @@
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103000000 +0100" stop="20241103150000 +0100" channel="Arena Sport 10 HD">
+  <programme start="20241106210000 +0100" stop="20241107000000 +0100" channel="Arena Sport 9 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Sparta Prag – Brest</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241107000000 +0100" stop="20241107184500 +0100" channel="Arena Sport 9 HD">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>
-  <programme start="20241103150000 +0100" stop="20241103170000 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Nogomet – Francuska Liga: Toulouse – Reims</title>
-    <desc lang="hr">Kroz svoju povijest Ligue 1 dala je nogometu neke od najboljih svjetskih igrača. Francuska liga s pravom pripada među najcjenjenije europske nogometne lige.(n)</desc>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 9 HD">
+    <title lang="hr">Nogomet – Europa Liga: Ludogorec – Athletic Bilbao</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103170000 +0100" stop="20241103181500 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Best Of Enemies</title>
-    <desc lang="hr">Dokumentarac istražuje dugogodišnje rivalstvo između dviju NBA momčadi, Lakersa i Celticsa, od pedesetih pa sve do osamdesetih.(n)</desc>
+  <programme start="20241107210000 +0100" stop="20241108000000 +0100" channel="Arena Sport 9 HD">
+    <title lang="hr">Nogomet – Europa Liga: Dynamo Kiev – Ferencvaros</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
   </programme>
-  <programme start="20241103181500 +0100" stop="20241103201500 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Košarka – Talijanska Liga: Trentino – Milano</title>
-    <desc lang="hr">LBA liga ili Lega Basket Serie A je liga sa jednom jako dugom tradicijom u svijetu košarke. Jednim dijelom povijesti se smatrala i najjačom europskom ligom i time će sigurno privući vašu pozornost.(n)</desc>
-  </programme>
-  <programme start="20241103201500 +0100" stop="20241104000000 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Nogomet – Poljska Liga: Legia – Katowice</title>
-    <desc lang="hr">Ekstraklasa je najviša profesionalna nogometna liga Poljske. Prva liga Poljske u nogometu osnovana je 1927. godine, a tu ligu organizira Nogometni savez Poljske. Trenutno u ligi sudjeluje 16 ekipa.(n)</desc>
-  </programme>
-  <programme start="20241104000000 +0100" stop="20241104180000 +0100" channel="Arena Sport 10 HD">
+  <programme start="20241108000000 +0100" stop="20241109000000 +0100" channel="Arena Sport 9 HD">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
-  </programme>
-  <programme start="20241104180000 +0100" stop="20241104200000 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Nogomet: Premijer Liga Bih: Radnik – Gošk</title>
-    <desc lang="hr">Ulaskom klubova iz Republike Srpske 2002. godine Premijer liga BiH dobiva svoj današnji format. 12 momčadi se nakon 22 odigrana kola dijeli na Ligu za prvaka i Ligu za ostanak.(n)</desc>
-  </programme>
-  <programme start="20241104200000 +0100" stop="20241105000000 +0100" channel="Arena Sport 10 HD">
-    <title lang="hr">Nogomet – Rumunjska Liga: Rapid – Hermannstadt</title>
-    <desc lang="hr">Pogledajte dvoboje ponajboljih nogometnih momčadi Rumunjske u jednoj od ponajboljih liga jugoistočne Europe.(n)</desc>
   </programme>
   <programme start="20241105000000 +0100" stop="20241105210000 +0100" channel="Arena Sport 10 HD">
     <title lang="hr">Najava Programa</title>
@@ -1359,6 +1339,26 @@
     <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
   </programme>
   <programme start="20241106000000 +0100" stop="20241106210000 +0100" channel="Arena Sport 10 HD">
+    <title lang="hr">Najava Programa</title>
+    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
+  </programme>
+  <programme start="20241106210000 +0100" stop="20241107000000 +0100" channel="Arena Sport 10 HD">
+    <title lang="hr">Nogomet – Liga Prvaka: Multiprijenos</title>
+    <desc lang="hr">Kroz svoje skromne početke 1955. do danas Liga prvaka postala je najcjenjenije kontinentalno nogometno natjecanje.(n)</desc>
+  </programme>
+  <programme start="20241107000000 +0100" stop="20241107184500 +0100" channel="Arena Sport 10 HD">
+    <title lang="hr">Najava Programa</title>
+    <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
+  </programme>
+  <programme start="20241107184500 +0100" stop="20241107210000 +0100" channel="Arena Sport 10 HD">
+    <title lang="hr">Nogomet – Europa Liga: Nice – Twente</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  </programme>
+  <programme start="20241107210000 +0100" stop="20241108000000 +0100" channel="Arena Sport 10 HD">
+    <title lang="hr">Nogomet – Europa Liga: Vitoria – Real Sociedad</title>
+    <desc lang="hr">Počinje još jedna sezona drugog po redu najvažnijeg nogometnog natjecanja na starome kontinentu. Europa liga je ujedno i najmasovnije međunarodno klupsko natjecanje koje nikako ne smijete propustiti.(n)</desc>
+  </programme>
+  <programme start="20241108000000 +0100" stop="20241109000000 +0100" channel="Arena Sport 10 HD">
     <title lang="hr">Najava Programa</title>
     <desc lang="hr">Pogledajte što vas sve očekuje u našem programu.(n)</desc>
   </programme>

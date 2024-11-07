@@ -40,525 +40,665 @@
     <icon src="https://www.tvarenasport.ba/files/img/icons/chanel-05.png" />
     <url>http://www.tvarenasport.ba</url>
   </channel>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Premium 1">
+  <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Premium 1">
     <title lang="sr">Wolves - Crystal Palace</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Premium 1">
+  <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Premium 1">
     <title lang="sr">Newcastle - Arsenal</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Premium 1">
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 1">
     <title lang="sr">Sloga - Zrinjski</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Premium 1">
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Premium 1">
     <title lang="sr">Sloboda - Sarajevo</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Premium 1">
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Premium 1">
     <title lang="sr">Široki Brijeg - Željezničar</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105180000 +0100" channel="Premium 1">
+  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Premium 1">
     <title lang="sr">Manchester United - Chelsea</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105180000 +0100" stop="20241105200000 +0100" channel="Premium 1">
+  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Premium 1">
     <title lang="sr">Radnik - GOŠK</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241105200000 +0100" stop="20241105210000 +0100" channel="Premium 1">
+  <programme start="20241107200000 +0100" stop="20241107210000 +0100" channel="Premium 1">
     <title lang="sr">Pregled kola</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241105210000 +0100" stop="20241105230000 +0100" channel="Premium 1">
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Premium 1">
     <title lang="sr">Fulham - Brentford</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241106010000 +0100" channel="Premium 1">
+  <programme start="20241107230000 +0100" stop="20241108010000 +0100" channel="Premium 1">
     <title lang="sr">Wolves - Crystal Palace</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106010000 +0100" stop="20241106014500 +0100" channel="Premium 1">
+  <programme start="20241108010000 +0100" stop="20241108014500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106014500 +0100" stop="20241106043000 +0100" channel="Premium 1">
+  <programme start="20241108014500 +0100" stop="20241108043000 +0100" channel="Premium 1">
     <title lang="sr">Atlanta - Boston</title>
     <desc lang="sr">NBA Liga.(n)</desc>
   </programme>
-  <programme start="20241106043000 +0100" stop="20241106051500 +0100" channel="Premium 1">
+  <programme start="20241108043000 +0100" stop="20241108051500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106051500 +0100" stop="20241106060000 +0100" channel="Premium 1">
+  <programme start="20241108051500 +0100" stop="20241108060000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Premium 1">
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Premium 1">
     <title lang="sr">Newcastle - Arsenal</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Premium 1">
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Premium 1">
     <title lang="sr">Sloga - Zrinjski</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Premium 1">
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Premium 1">
     <title lang="sr">Sloboda - Sarajevo</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241106120000 +0100" stop="20241106123000 +0100" channel="Premium 1">
+  <programme start="20241108120000 +0100" stop="20241108123000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106123000 +0100" stop="20241106130000 +0100" channel="Premium 1">
+  <programme start="20241108123000 +0100" stop="20241108130000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106130000 +0100" stop="20241106150000 +0100" channel="Premium 1">
+  <programme start="20241108130000 +0100" stop="20241108150000 +0100" channel="Premium 1">
     <title lang="sr">Slovan Bratislava - Dinamo Zagreb</title>
     <desc lang="sr">UEFA Youth Champions League.(n)</desc>
   </programme>
-  <programme start="20241106150000 +0100" stop="20241106170000 +0100" channel="Premium 1">
+  <programme start="20241108150000 +0100" stop="20241108170000 +0100" channel="Premium 1">
     <title lang="sr">Široki Brijeg - Željezničar</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241106170000 +0100" stop="20241106174500 +0100" channel="Premium 1">
+  <programme start="20241108170000 +0100" stop="20241108174500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106174500 +0100" stop="20241106184500 +0100" channel="Premium 1">
+  <programme start="20241108174500 +0100" stop="20241108184500 +0100" channel="Premium 1">
     <title lang="sr">Uvodni studio</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106184500 +0100" stop="20241106204500 +0100" channel="Premium 1">
+  <programme start="20241108184500 +0100" stop="20241108204500 +0100" channel="Premium 1">
     <title lang="sr">PSV - Girona</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106204500 +0100" stop="20241106210000 +0100" channel="Premium 1">
+  <programme start="20241108204500 +0100" stop="20241108210000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Premium 1">
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Premium 1">
     <title lang="sr">Real Madrid - Milan</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241106231500 +0100" channel="Premium 1">
+  <programme start="20241108230000 +0100" stop="20241108231500 +0100" channel="Premium 1">
     <title lang="sr">Završni studio</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106231500 +0100" stop="20241106234500 +0100" channel="Premium 1">
+  <programme start="20241108231500 +0100" stop="20241108234500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106234500 +0100" stop="20241107001500 +0100" channel="Premium 1">
+  <programme start="20241108234500 +0100" stop="20241109001500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107001500 +0100" stop="20241107010000 +0100" channel="Premium 1">
+  <programme start="20241109001500 +0100" stop="20241109010000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107010000 +0100" stop="20241107030000 +0100" channel="Premium 1">
+  <programme start="20241109010000 +0100" stop="20241109030000 +0100" channel="Premium 1">
     <title lang="sr">Newells - Huracan</title>
     <desc lang="sr">Argentinska liga.(n)</desc>
   </programme>
-  <programme start="20241107030000 +0100" stop="20241107050000 +0100" channel="Premium 1">
+  <programme start="20241109030000 +0100" stop="20241109050000 +0100" channel="Premium 1">
     <title lang="sr">Manchester United - Chelsea</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107050000 +0100" stop="20241107053000 +0100" channel="Premium 1">
+  <programme start="20241109050000 +0100" stop="20241109053000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107053000 +0100" stop="20241107060000 +0100" channel="Premium 1">
+  <programme start="20241109053000 +0100" stop="20241109060000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Premium 1">
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Premium 1">
     <title lang="sr">Sloga - Zrinjski</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Premium 1">
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Premium 1">
     <title lang="sr">Sloboda - Sarajevo</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 1">
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Premium 1">
     <title lang="sr">Široki Brijeg - Željezničar</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241107120000 +0100" stop="20241107123000 +0100" channel="Premium 1">
+  <programme start="20241109120000 +0100" stop="20241109123000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107123000 +0100" stop="20241107130000 +0100" channel="Premium 1">
+  <programme start="20241109123000 +0100" stop="20241109130000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107130000 +0100" stop="20241107150000 +0100" channel="Premium 1">
+  <programme start="20241109130000 +0100" stop="20241109150000 +0100" channel="Premium 1">
     <title lang="sr">Crvena Zvezda - Barcelona</title>
     <desc lang="sr">UEFA Youth Champions League.(n)</desc>
   </programme>
-  <programme start="20241107150000 +0100" stop="20241107170000 +0100" channel="Premium 1">
+  <programme start="20241109150000 +0100" stop="20241109170000 +0100" channel="Premium 1">
     <title lang="sr">Manchester United - Chelsea</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107170000 +0100" stop="20241107174500 +0100" channel="Premium 1">
+  <programme start="20241109170000 +0100" stop="20241109174500 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107174500 +0100" stop="20241107184500 +0100" channel="Premium 1">
+  <programme start="20241109174500 +0100" stop="20241109184500 +0100" channel="Premium 1">
     <title lang="sr">Uvodni studio</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107184500 +0100" stop="20241107204500 +0100" channel="Premium 1">
+  <programme start="20241109184500 +0100" stop="20241109204500 +0100" channel="Premium 1">
     <title lang="sr">Club Brugge - Aston Villa</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107204500 +0100" stop="20241107210000 +0100" channel="Premium 1">
+  <programme start="20241109204500 +0100" stop="20241109210000 +0100" channel="Premium 1">
     <title lang="sr">The Big Interview</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Premium 1">
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Premium 1">
     <title lang="sr">Inter - Arsenal</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107230000 +0100" stop="20241107231500 +0100" channel="Premium 1">
+  <programme start="20241109230000 +0100" stop="20241109231500 +0100" channel="Premium 1">
     <title lang="sr">Završni studio</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107231500 +0100" stop="20241108011500 +0100" channel="Premium 1">
+  <programme start="20241109231500 +0100" stop="20241110011500 +0100" channel="Premium 1">
     <title lang="sr">Sloboda - Sarajevo</title>
     <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Premium 2">
-    <title lang="sr">Bologna - Lecce</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110011500 +0100" stop="20241110020000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Premium 2">
-    <title lang="sr">Udinese - Juventus</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110020000 +0100" stop="20241110023000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Premium 2">
-    <title lang="sr">Monza - AC Milan</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110023000 +0100" stop="20241110030000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Premium 2">
-    <title lang="sr">Napoli - Atalanta</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110030000 +0100" stop="20241110053000 +0100" channel="Premium 1">
+    <title lang="sr">Denver - Oklahoma</title>
+    <desc lang="sr">NBA Liga.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Premium 2">
-    <title lang="sr">Torino - Fiorentina</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110053000 +0100" stop="20241110060000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105180000 +0100" channel="Premium 2">
-    <title lang="sr">Verona - AS Roma</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Premium 1">
+    <title lang="sr">Wolves - Crystal Palace</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105180000 +0100" stop="20241105183000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Premium 1">
+    <title lang="sr">Newcastle - Arsenal</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105183000 +0100" stop="20241105203000 +0100" channel="Premium 2">
-    <title lang="sr">Empoli - Como</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Premium 1">
+    <title lang="sr">Sloga - Zrinjski</title>
+    <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241105203000 +0100" stop="20241105204500 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Premium 1">
+    <title lang="sr">Sloboda - Sarajevo</title>
+    <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241105204500 +0100" stop="20241105224500 +0100" channel="Premium 2">
-    <title lang="sr">Lazio - Cagliari</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110140000 +0100" stop="20241110143000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105224500 +0100" stop="20241105231500 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110143000 +0100" stop="20241110153000 +0100" channel="Premium 1">
+    <title lang="sr">Uvodni studio</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
   </programme>
-  <programme start="20241105231500 +0100" stop="20241106000000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110153000 +0100" stop="20241110173000 +0100" channel="Premium 1">
+    <title lang="sr">Vikingur - Borac</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
   </programme>
-  <programme start="20241106000000 +0100" stop="20241106020000 +0100" channel="Premium 2">
-    <title lang="sr">Bologna - Lecce</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110173000 +0100" stop="20241110174500 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106020000 +0100" stop="20241106040000 +0100" channel="Premium 2">
-    <title lang="sr">Udinese - Juventus</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110174500 +0100" stop="20241110184500 +0100" channel="Premium 1">
+    <title lang="sr">Uvodni studio</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
   </programme>
-  <programme start="20241106040000 +0100" stop="20241106060000 +0100" channel="Premium 2">
-    <title lang="sr">Monza - AC Milan</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Premium 1">
+    <title lang="sr">HJK - Olimpija</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
   </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Premium 2">
-    <title lang="sr">Udinese - Juventus</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Premium 2">
-    <title lang="sr">Monza - AC Milan</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Premium 1">
+    <title lang="sr">Lask - Cercle Brugge</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
   </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Premium 2">
-    <title lang="sr">Napoli - Atalanta</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241110230000 +0100" stop="20241111010000 +0100" channel="Premium 1">
+    <title lang="sr">Manchester United - Chelsea</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Premium 2">
-    <title lang="sr">Torino - Fiorentina</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111010000 +0100" stop="20241111013000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Premium 2">
-    <title lang="sr">Verona - AS Roma</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111013000 +0100" stop="20241111020000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Premium 2">
-    <title lang="sr">Bologna - Lecce</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111020000 +0100" stop="20241111044500 +0100" channel="Premium 1">
+    <title lang="sr">Chicago - Minnesota</title>
+    <desc lang="sr">NBA Liga.(n)</desc>
   </programme>
-  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Premium 2">
-    <title lang="sr">Udinese - Juventus</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111044500 +0100" stop="20241111053000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106200000 +0100" stop="20241106203000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111053000 +0100" stop="20241111060000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106203000 +0100" stop="20241106210000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Premium 1">
+    <title lang="sr">Newcastle - Arsenal</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Premium 2">
-    <title lang="sr">Liverpool - Leverkusen</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Premium 1">
+    <title lang="sr">Sloga - Zrinjski</title>
+    <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Premium 1">
+    <title lang="sr">Sloboda - Sarajevo</title>
+    <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Premium 2">
-    <title lang="sr">Champions of Italy</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Premium 1">
+    <title lang="sr">Široki Brijeg - Željezničar</title>
+    <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Premium 2">
-    <title lang="sr">Udinese - Juventus</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Premium 1">
+    <title lang="sr">Manchester United - Chelsea</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Premium 2">
-    <title lang="sr">Monza - AC Milan</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111160000 +0100" stop="20241111163000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Premium 2">
-    <title lang="sr">Napoli - Atalanta</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
+  <programme start="20241111163000 +0100" stop="20241111170000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111170000 +0100" stop="20241111180000 +0100" channel="Premium 1">
+    <title lang="sr">Najava kola</title>
+    <desc lang="sr">WWIN liga BiH.(n)</desc>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111200000 +0100" channel="Premium 1">
+    <title lang="sr">Posušje - Sloboda</title>
+    <desc lang="sr">WWIN liga BiH.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111203000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111203000 +0100" stop="20241111210000 +0100" channel="Premium 1">
+    <title lang="sr">The Big Interview</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111210000 +0100" stop="20241111230000 +0100" channel="Premium 1">
+    <title lang="sr">Watford - Oxford</title>
+    <desc lang="sr">Championship.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241112010000 +0100" channel="Premium 1">
+    <title lang="sr">Sloboda - Sarajevo</title>
+    <desc lang="sr">WWIN LIGA BIH.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Premium 2">
-    <title lang="sr">Monza - AC Milan</title>
+    <title lang="sr">Bologna - Lecce</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Premium 2">
-    <title lang="sr">Napoli - Atalanta</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
-  </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 2">
-    <title lang="sr">Torino - Fiorentina</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
-  </programme>
-  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Premium 2">
-    <title lang="sr">Verona - AS Roma</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
-  </programme>
-  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Premium 2">
-    <title lang="sr">Bologna - Lecce</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
-  </programme>
-  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Premium 2">
     <title lang="sr">Udinese - Juventus</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Premium 2">
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Premium 2">
+    <title lang="sr">Verona - AS Roma</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107183000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107183000 +0100" stop="20241107203000 +0100" channel="Premium 2">
+    <title lang="sr">Empoli - Como</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107203000 +0100" stop="20241107204500 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107204500 +0100" stop="20241107224500 +0100" channel="Premium 2">
+    <title lang="sr">Lazio - Cagliari</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107224500 +0100" stop="20241107231500 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107231500 +0100" stop="20241108000000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Premium 2">
+    <title lang="sr">Bologna - Lecce</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Premium 2">
+    <title lang="sr">Verona - AS Roma</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Premium 2">
+    <title lang="sr">Bologna - Lecce</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108200000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108200000 +0100" stop="20241108203000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108203000 +0100" stop="20241108210000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Premium 2">
+    <title lang="sr">Liverpool - Leverkusen</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
+  </programme>
+  <programme start="20241108230000 +0100" stop="20241108233000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109000000 +0100" stop="20241109020000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109020000 +0100" stop="20241109040000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Premium 2">
+    <title lang="sr">Verona - AS Roma</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109140000 +0100" stop="20241109160000 +0100" channel="Premium 2">
+    <title lang="sr">Bologna - Lecce</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109160000 +0100" stop="20241109180000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241109180000 +0100" stop="20241109200000 +0100" channel="Premium 2">
     <title lang="sr">Zrinjski - Sarajevo</title>
     <desc lang="sr">WWIN liga BiH.(n)</desc>
   </programme>
-  <programme start="20241107200000 +0100" stop="20241107203000 +0100" channel="Premium 2">
+  <programme start="20241109200000 +0100" stop="20241109203000 +0100" channel="Premium 2">
     <title lang="sr">Champions of Italy</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107203000 +0100" stop="20241107210000 +0100" channel="Premium 2">
+  <programme start="20241109203000 +0100" stop="20241109210000 +0100" channel="Premium 2">
     <title lang="sr">Champions of Italy</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Premium 2">
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Premium 2">
     <title lang="sr">Crvena Zvezda - Barcelona</title>
     <desc lang="sr">Liga Prvaka.(n)</desc>
   </programme>
-  <programme start="20241107230000 +0100" stop="20241107233000 +0100" channel="Premium 2">
+  <programme start="20241109230000 +0100" stop="20241109233000 +0100" channel="Premium 2">
     <title lang="sr">Champions of Italy</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107233000 +0100" stop="20241108000000 +0100" channel="Premium 2">
+  <programme start="20241109233000 +0100" stop="20241110000000 +0100" channel="Premium 2">
     <title lang="sr">Champions of Italy</title>
     <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Premium 3">
-    <title lang="sr">Osasuna - Valladolid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110000000 +0100" stop="20241110020000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Premium 3">
-    <title lang="sr">Girona - Leganes</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110020000 +0100" stop="20241110040000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Premium 3">
-    <title lang="sr">Villarreal - Vallecano</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Premium 3">
-    <title lang="sr">Valencia - Real Madrid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Premium 2">
+    <title lang="sr">Bologna - Lecce</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Premium 3">
-    <title lang="sr">Atletico Madrid - Las Palmas</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105180000 +0100" channel="Premium 3">
-    <title lang="sr">Barcelona - Espanyol</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105180000 +0100" stop="20241105183000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105183000 +0100" stop="20241105190000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105190000 +0100" stop="20241105210000 +0100" channel="Premium 3">
-    <title lang="sr">Split - Spartak</title>
-    <desc lang="sr">ABA Liga.(n)</desc>
+  <programme start="20241110160000 +0100" stop="20241110180000 +0100" channel="Premium 2">
+    <title lang="sr">Verona - AS Roma</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105210000 +0100" stop="20241105230000 +0100" channel="Premium 3">
-    <title lang="sr">Celta - Getafe</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110180000 +0100" stop="20241110184500 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241105233000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Premium 2">
+    <title lang="sr">Olympiacos - Rangers</title>
+    <desc lang="sr">Europaliga.(n)</desc>
   </programme>
-  <programme start="20241105233000 +0100" stop="20241106000000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106000000 +0100" stop="20241106020000 +0100" channel="Premium 3">
-    <title lang="sr">Osasuna - Valladolid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Premium 2">
+    <title lang="sr">AZ Aalkmar - Fenerbahce</title>
+    <desc lang="sr">Europaliga.(n)</desc>
   </programme>
-  <programme start="20241106020000 +0100" stop="20241106040000 +0100" channel="Premium 3">
-    <title lang="sr">Girona - Leganes</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241110230000 +0100" stop="20241111010000 +0100" channel="Premium 2">
+    <title lang="sr">Bologna - Lecce</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106040000 +0100" stop="20241106060000 +0100" channel="Premium 3">
-    <title lang="sr">Villarreal - Vallecano</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111010000 +0100" stop="20241111030000 +0100" channel="Premium 2">
+    <title lang="sr">Velez - Tigre</title>
+    <desc lang="sr">Argentinska liga.(n)</desc>
   </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Premium 3">
-    <title lang="sr">Girona - Leganes</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111030000 +0100" stop="20241111033000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Premium 3">
-    <title lang="sr">Villarreal - Vallecano</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111033000 +0100" stop="20241111040000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Premium 3">
-    <title lang="sr">Valencia - Real Madrid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111040000 +0100" stop="20241111060000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Premium 3">
-    <title lang="sr">Atletico Madrid - Las Palmas</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Premium 2">
+    <title lang="sr">Udinese - Juventus</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Premium 3">
-    <title lang="sr">Barcelona - Espanyol</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Premium 2">
+    <title lang="sr">Monza - AC Milan</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Premium 3">
-    <title lang="sr">Osasuna - Valladolid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Premium 2">
+    <title lang="sr">Napoli - Atalanta</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Premium 3">
-    <title lang="sr">Girona - Leganes</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Premium 2">
+    <title lang="sr">Torino - Fiorentina</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106200000 +0100" stop="20241106203000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Premium 2">
+    <title lang="sr">Verona - AS Roma</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106203000 +0100" stop="20241106210000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111160000 +0100" stop="20241111180000 +0100" channel="Premium 2">
+    <title lang="sr">.</title>
+    <desc lang="sr">Super liga Srbije.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Premium 3">
-    <title lang="sr">Lille - Juventus</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
+  <programme start="20241111180000 +0100" stop="20241111200000 +0100" channel="Premium 2">
+    <title lang="sr">.</title>
+    <desc lang="sr">Super liga Srbije.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111200000 +0100" stop="20241111204500 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Premium 3">
-    <title lang="sr">La Liga Talking</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111204500 +0100" stop="20241111224500 +0100" channel="Premium 2">
+    <title lang="sr">Lecce - Empoli</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Premium 3">
-    <title lang="sr">Girona - Leganes</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111224500 +0100" stop="20241111231500 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
-  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Premium 3">
-    <title lang="sr">Villarreal - Vallecano</title>
-    <desc lang="sr">Španska liga.(n)</desc>
-  </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Premium 3">
-    <title lang="sr">Valencia - Real Madrid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
+  <programme start="20241111231500 +0100" stop="20241112000000 +0100" channel="Premium 2">
+    <title lang="sr">Champions of Italy</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Premium 3">
-    <title lang="sr">Villarreal - Vallecano</title>
+    <title lang="sr">Osasuna - Valladolid</title>
     <desc lang="sr">Španska liga.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Premium 3">
-    <title lang="sr">Valencia - Real Madrid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
-  </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 3">
-    <title lang="sr">Atletico Madrid - Las Palmas</title>
-    <desc lang="sr">Španska liga.(n)</desc>
-  </programme>
-  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Premium 3">
-    <title lang="sr">Barcelona - Espanyol</title>
-    <desc lang="sr">Španska liga.(n)</desc>
-  </programme>
-  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Premium 3">
-    <title lang="sr">Osasuna - Valladolid</title>
-    <desc lang="sr">Španska liga.(n)</desc>
-  </programme>
-  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Premium 3">
     <title lang="sr">Girona - Leganes</title>
     <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241107180000 +0100" stop="20241107184500 +0100" channel="Premium 3">
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Premium 3">
+    <title lang="sr">Barcelona - Espanyol</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107183000 +0100" channel="Premium 3">
     <title lang="sr">La Liga Talking</title>
     <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241107184500 +0100" stop="20241107204500 +0100" channel="Premium 3">
-    <title lang="sr">Shakhtar - Young Boys</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
-  </programme>
-  <programme start="20241107204500 +0100" stop="20241107210000 +0100" channel="Premium 3">
+  <programme start="20241107183000 +0100" stop="20241107190000 +0100" channel="Premium 3">
     <title lang="sr">La Liga Talking</title>
     <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241107190000 +0100" stop="20241107210000 +0100" channel="Premium 3">
+    <title lang="sr">Split - Spartak</title>
+    <desc lang="sr">ABA Liga.(n)</desc>
   </programme>
   <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Premium 3">
-    <title lang="sr">PSG - Atletico Madrid</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
+    <title lang="sr">Celta - Getafe</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
   <programme start="20241107230000 +0100" stop="20241107233000 +0100" channel="Premium 3">
     <title lang="sr">La Liga Talking</title>
@@ -568,353 +708,577 @@
     <title lang="sr">La Liga Talking</title>
     <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Sport 1">
-    <title lang="sr">Real M. - Borussia D.</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Sport 1">
-    <title lang="sr">Milan - Club Brugge</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Sport 1">
-    <title lang="sr">PSG - PSV</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Sport 1">
-    <title lang="sr">Arsenal - Shakhtar</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105143000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105143000 +0100" stop="20241105150000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105150000 +0100" stop="20241105153000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105153000 +0100" stop="20241105173000 +0100" channel="Sport 1">
-    <title lang="sr">Real M. - Borussia D.</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Premium 3">
+    <title lang="sr">Barcelona - Espanyol</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105173000 +0100" stop="20241105180000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105180000 +0100" stop="20241105200000 +0100" channel="Sport 1">
-    <title lang="sr">Katowice - Kielce</title>
-    <desc lang="sr">Poljska liga.(n)</desc>
+  <programme start="20241108180000 +0100" stop="20241108200000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105200000 +0100" stop="20241105210000 +0100" channel="Sport 1">
-    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
-    <desc lang="sr">Emisija.(n)</desc>
+  <programme start="20241108200000 +0100" stop="20241108203000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105210000 +0100" stop="20241105230000 +0100" channel="Sport 1">
-    <title lang="sr">Mornar - Cibona</title>
-    <desc lang="sr">ABA liga.(n)</desc>
+  <programme start="20241108203000 +0100" stop="20241108210000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241106010000 +0100" channel="Sport 1">
-    <title lang="sr">Real M. - Borussia D.</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106010000 +0100" stop="20241106013000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
-  </programme>
-  <programme start="20241106013000 +0100" stop="20241106021500 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
-  </programme>
-  <programme start="20241106021500 +0100" stop="20241106051500 +0100" channel="Sport 1">
-    <title lang="sr">Kansas City - Tampa Bay</title>
-    <desc lang="sr">NFL:.(n)</desc>
-  </programme>
-  <programme start="20241106051500 +0100" stop="20241106060000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
-  </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Sport 1">
-    <title lang="sr">Brest - Bayer L.</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Sport 1">
-    <title lang="sr">Barcelona - Bayern M.</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Sport 1">
-    <title lang="sr">Salzburg - Dinamo</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Sport 1">
-    <title lang="sr">Benfica - Feyenoord</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Sport 1">
-    <title lang="sr">Young Boys - Inter</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Sport 1">
-    <title lang="sr">Manchester City - Sparta</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241106180000 +0100" stop="20241106184500 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
-  </programme>
-  <programme start="20241106184500 +0100" stop="20241106204500 +0100" channel="Sport 1">
-    <title lang="sr">Slovan Bratislava - Dinamo Zagreb</title>
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Premium 3">
+    <title lang="sr">Lille - Juventus</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106204500 +0100" stop="20241106210000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241108230000 +0100" stop="20241108233000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Sport 1">
-    <title lang="sr">Sporting - Man City</title>
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109000000 +0100" stop="20241109020000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109020000 +0100" stop="20241109040000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Premium 3">
+    <title lang="sr">Barcelona - Espanyol</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109140000 +0100" stop="20241109160000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109160000 +0100" stop="20241109180000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109180000 +0100" stop="20241109184500 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241109184500 +0100" stop="20241109204500 +0100" channel="Premium 3">
+    <title lang="sr">Shakhtar - Young Boys</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241107000000 +0100" channel="Sport 1">
-    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
-    <desc lang="sr">Emisija.(n)</desc>
+  <programme start="20241109204500 +0100" stop="20241109210000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107003000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Premium 3">
+    <title lang="sr">PSG - Atletico Madrid</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107003000 +0100" stop="20241107010000 +0100" channel="Sport 1">
-    <title lang="sr">Premier League Stories</title>
-    <desc lang="sr">Engleska liga.(n)</desc>
+  <programme start="20241109230000 +0100" stop="20241109233000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241107010000 +0100" stop="20241107040000 +0100" channel="Sport 1">
-    <title lang="sr">Toronto - Boston</title>
-    <desc lang="sr">NHL.(n)</desc>
+  <programme start="20241109233000 +0100" stop="20241110000000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Sport 1">
-    <title lang="sr">Salzburg - Dinamo</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  <programme start="20241110000000 +0100" stop="20241110020000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110020000 +0100" stop="20241110040000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110180000 +0100" channel="Premium 3">
+    <title lang="sr">Barcelona - Espanyol</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110180000 +0100" stop="20241110184500 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Premium 3">
+    <title lang="sr">Galatasaray - Tottenham</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Premium 3">
+    <title lang="sr">Manchester United - PAOK</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241110233000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241110233000 +0100" stop="20241111000000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111000000 +0100" stop="20241111020000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111040000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111040000 +0100" stop="20241111060000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Premium 3">
+    <title lang="sr">Girona - Leganes</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Premium 3">
+    <title lang="sr">Villarreal - Vallecano</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Premium 3">
+    <title lang="sr">Valencia - Real Madrid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Premium 3">
+    <title lang="sr">Atletico Madrid - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Premium 3">
+    <title lang="sr">Barcelona - Espanyol</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111160000 +0100" stop="20241111180000 +0100" channel="Premium 3">
+    <title lang="sr">Osasuna - Valladolid</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111200000 +0100" channel="Premium 3">
+    <title lang="sr">Šibenik - Lokomotiva</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111204500 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111204500 +0100" stop="20241111210000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111210000 +0100" stop="20241111230000 +0100" channel="Premium 3">
+    <title lang="sr">Vallecano - Las Palmas</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241111233000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
+  </programme>
+  <programme start="20241111233000 +0100" stop="20241112000000 +0100" channel="Premium 3">
+    <title lang="sr">La Liga Talking</title>
+    <desc lang="sr">Španska liga.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Sport 1">
-    <title lang="sr">PSV - Girona</title>
+    <title lang="sr">Real M. - Borussia D.</title>
     <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Sport 1">
-    <title lang="sr">Bologna - Monaco</title>
+    <title lang="sr">Milan - Club Brugge</title>
     <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
   <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 1">
-    <title lang="sr">Slovan Bratislava - Dinamo</title>
+    <title lang="sr">PSG - PSV</title>
     <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
   <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 1">
-    <title lang="sr">Liverpool - Bayer</title>
+    <title lang="sr">Arsenal - Shakhtar</title>
     <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
-  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 1">
-    <title lang="sr">Real Madrid - Milan</title>
-    <desc lang="sr">LIGA PRVAKA.(n)</desc>
-  </programme>
-  <programme start="20241107160000 +0100" stop="20241107163000 +0100" channel="Sport 1">
+  <programme start="20241107140000 +0100" stop="20241107143000 +0100" channel="Sport 1">
     <title lang="sr">Premier League Stories</title>
     <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107163000 +0100" stop="20241107183000 +0100" channel="Sport 1">
-    <title lang="sr">Besiktas - Malmo</title>
-    <desc lang="sr">Europaliga.(n)</desc>
+  <programme start="20241107143000 +0100" stop="20241107150000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107183000 +0100" stop="20241107203000 +0100" channel="Sport 1">
-    <title lang="sr">Igokea - Hapoel</title>
-    <desc lang="sr">BCL.(n)</desc>
+  <programme start="20241107150000 +0100" stop="20241107153000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241107203000 +0100" stop="20241107223000 +0100" channel="Sport 1">
-    <title lang="sr">Island - BiH</title>
-    <desc lang="sr">Kvalifikacije za EP.(n)</desc>
+  <programme start="20241107153000 +0100" stop="20241107173000 +0100" channel="Sport 1">
+    <title lang="sr">Real M. - Borussia D.</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
-  <programme start="20241107223000 +0100" stop="20241107233000 +0100" channel="Sport 1">
+  <programme start="20241107173000 +0100" stop="20241107180000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Sport 1">
+    <title lang="sr">Katowice - Kielce</title>
+    <desc lang="sr">Poljska liga.(n)</desc>
+  </programme>
+  <programme start="20241107200000 +0100" stop="20241107210000 +0100" channel="Sport 1">
     <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241107233000 +0100" stop="20241108013000 +0100" channel="Sport 1">
+  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Sport 1">
+    <title lang="sr">Mornar - Cibona</title>
+    <desc lang="sr">ABA liga.(n)</desc>
+  </programme>
+  <programme start="20241107230000 +0100" stop="20241108010000 +0100" channel="Sport 1">
+    <title lang="sr">Real M. - Borussia D.</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108010000 +0100" stop="20241108013000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241108013000 +0100" stop="20241108021500 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241108021500 +0100" stop="20241108051500 +0100" channel="Sport 1">
+    <title lang="sr">Kansas City - Tampa Bay</title>
+    <desc lang="sr">NFL:.(n)</desc>
+  </programme>
+  <programme start="20241108051500 +0100" stop="20241108060000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Sport 1">
+    <title lang="sr">Brest - Bayer L.</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Sport 1">
+    <title lang="sr">Barcelona - Bayern M.</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Sport 1">
+    <title lang="sr">Salzburg - Dinamo</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Sport 1">
+    <title lang="sr">Benfica - Feyenoord</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Sport 1">
+    <title lang="sr">Young Boys - Inter</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Sport 1">
+    <title lang="sr">Manchester City - Sparta</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108184500 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241108184500 +0100" stop="20241108204500 +0100" channel="Sport 1">
+    <title lang="sr">Slovan Bratislava - Dinamo Zagreb</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
+  </programme>
+  <programme start="20241108204500 +0100" stop="20241108210000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Sport 1">
+    <title lang="sr">Sporting - Man City</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
+  </programme>
+  <programme start="20241108230000 +0100" stop="20241109000000 +0100" channel="Sport 1">
+    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109000000 +0100" stop="20241109003000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241109003000 +0100" stop="20241109010000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241109010000 +0100" stop="20241109040000 +0100" channel="Sport 1">
+    <title lang="sr">Toronto - Boston</title>
+    <desc lang="sr">NHL.(n)</desc>
+  </programme>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Sport 1">
+    <title lang="sr">Salzburg - Dinamo</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Sport 1">
+    <title lang="sr">PSV - Girona</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Sport 1">
+    <title lang="sr">Bologna - Monaco</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Sport 1">
+    <title lang="sr">Slovan Bratislava - Dinamo</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Sport 1">
+    <title lang="sr">Liverpool - Bayer</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109140000 +0100" stop="20241109160000 +0100" channel="Sport 1">
+    <title lang="sr">Real Madrid - Milan</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241109160000 +0100" stop="20241109163000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241109163000 +0100" stop="20241109183000 +0100" channel="Sport 1">
+    <title lang="sr">Besiktas - Malmo</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241109183000 +0100" stop="20241109203000 +0100" channel="Sport 1">
+    <title lang="sr">Igokea - Hapoel</title>
+    <desc lang="sr">BCL.(n)</desc>
+  </programme>
+  <programme start="20241109203000 +0100" stop="20241109223000 +0100" channel="Sport 1">
+    <title lang="sr">Island - BiH</title>
+    <desc lang="sr">Kvalifikacije za EP.(n)</desc>
+  </programme>
+  <programme start="20241109223000 +0100" stop="20241109233000 +0100" channel="Sport 1">
+    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109233000 +0100" stop="20241110013000 +0100" channel="Sport 1">
     <title lang="sr">Boca Juniors - Godoy Cruz</title>
     <desc lang="sr">Argentinska liga.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Sport 2">
-    <title lang="sr">Igokea -Borac</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
+  <programme start="20241110013000 +0100" stop="20241110033000 +0100" channel="Sport 1">
+    <title lang="sr">Instituto - River Plate</title>
+    <desc lang="sr">Argentinska liga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Sport 2">
-    <title lang="sr">Krka - Zadar</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
+  <programme start="20241110033000 +0100" stop="20241110040000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Sport 2">
-    <title lang="sr">SC Derby - Dubai</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Sport 1">
+    <title lang="sr">Slovan Bratislava - Dinamo</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Sport 2">
-    <title lang="sr">Buducnost - Mega</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Sport 1">
+    <title lang="sr">Sparta Prag - Brest</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Sport 2">
-    <title lang="sr">Fenerbahce - Petkim Spor</title>
-    <desc lang="sr">Turska liga.(n)</desc>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Sport 1">
+    <title lang="sr">Feyenoord - Salzburg</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105163000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Sport 1">
+    <title lang="sr">Bayern - Benfica</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Sport 1">
+    <title lang="sr">PSG - Atletico Madrid</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Sport 1">
+    <title lang="sr">Inter - Arsenal</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110180000 +0100" channel="Sport 1">
+    <title lang="sr">Crvena Zvezda - Barcelona</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241110180000 +0100" stop="20241110184500 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Sport 1">
+    <title lang="sr">Union - Roma</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Sport 1">
+    <title lang="sr">Lazio - Porto</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241111000000 +0100" channel="Sport 1">
+    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105163000 +0100" stop="20241105170000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
+  <programme start="20241111000000 +0100" stop="20241111020000 +0100" channel="Sport 1">
+    <title lang="sr">Bayern - Benfica</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111021500 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111021500 +0100" stop="20241111051500 +0100" channel="Sport 1">
+    <title lang="sr">Baltimore - Cincinnati</title>
+    <desc lang="sr">NFL.(n)</desc>
+  </programme>
+  <programme start="20241111051500 +0100" stop="20241111060000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Sport 1">
+    <title lang="sr">Feyenoord - Salzburg</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Sport 1">
+    <title lang="sr">Bayern - Benfica</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Sport 1">
+    <title lang="sr">PSG - Atletico Madrid</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Sport 1">
+    <title lang="sr">Inter - Arsenal</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Sport 1">
+    <title lang="sr">Crvena Zvezda - Barcelona</title>
+    <desc lang="sr">LIGA PRVAKA.(n)</desc>
+  </programme>
+  <programme start="20241111160000 +0100" stop="20241111180000 +0100" channel="Sport 1">
+    <title lang="sr">Vikingur - Borac</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111200000 +0100" channel="Sport 1">
+    <title lang="sr">Piast - Motor</title>
+    <desc lang="sr">Poljska liga.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111203000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111203000 +0100" stop="20241111210000 +0100" channel="Sport 1">
+    <title lang="sr">Premier League Stories</title>
+    <desc lang="sr">Engleska liga.(n)</desc>
+  </programme>
+  <programme start="20241111210000 +0100" stop="20241111230000 +0100" channel="Sport 1">
+    <title lang="sr">Marseille - Auxerre</title>
+    <desc lang="sr">Francuska liga.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241112000000 +0100" channel="Sport 1">
+    <title lang="sr">(Ne)uspjeh prvaka sa Mirzom Džombom</title>
     <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105170000 +0100" stop="20241105190000 +0100" channel="Sport 2">
-    <title lang="sr">FMP - Partizan</title>
-    <desc lang="sr">ABA Liga.(n)</desc>
-  </programme>
-  <programme start="20241105190000 +0100" stop="20241105210000 +0100" channel="Sport 2">
-    <title lang="sr">Crvena Zvezda - Olimpija</title>
-    <desc lang="sr">ABA Liga.(n)</desc>
-  </programme>
-  <programme start="20241105210000 +0100" stop="20241105213000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105213000 +0100" stop="20241105220000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105220000 +0100" stop="20241105223000 +0100" channel="Sport 2">
-    <title lang="sr">SPORTSKE IGRE MLADIH</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105223000 +0100" stop="20241105230000 +0100" channel="Sport 2">
-    <title lang="sr">SPORTSKE IGRE MLADIH</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105230000 +0100" stop="20241105233000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105233000 +0100" stop="20241106000000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106000000 +0100" stop="20241106020000 +0100" channel="Sport 2">
-    <title lang="sr">Igokea -Borac</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106020000 +0100" stop="20241106040000 +0100" channel="Sport 2">
-    <title lang="sr">Krka - Zadar</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106040000 +0100" stop="20241106060000 +0100" channel="Sport 2">
-    <title lang="sr">SC Derby - Dubai</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Sport 2">
-    <title lang="sr">Krka - Zadar</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Sport 2">
-    <title lang="sr">SC Derby - Dubai</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Sport 2">
-    <title lang="sr">Buducnost - Mega</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Sport 2">
-    <title lang="sr">Fenerbahce - Petkim Spor</title>
-    <desc lang="sr">Turska liga.(n)</desc>
-  </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Sport 2">
-    <title lang="sr">FMP - Partizan</title>
-    <desc lang="sr">ABA Liga.(n)</desc>
-  </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Sport 2">
-    <title lang="sr">Crvena Zvezda - Olimpija</title>
-    <desc lang="sr">ABA Liga.(n)</desc>
-  </programme>
-  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Sport 2">
-    <title lang="sr">Helios Domžale - MZT Skopje</title>
-    <desc lang="sr">ABA 2.liga.(n)</desc>
-  </programme>
-  <programme start="20241106200000 +0100" stop="20241106220000 +0100" channel="Sport 2">
-    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
-    <desc lang="sr">ABA 2.liga.(n)</desc>
-  </programme>
-  <programme start="20241106220000 +0100" stop="20241106223000 +0100" channel="Sport 2">
-    <title lang="sr">SPORTSKE IGRE MLADIH</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106223000 +0100" stop="20241106230000 +0100" channel="Sport 2">
-    <title lang="sr">SPORTSKE IGRE MLADIH</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Sport 2">
-    <title lang="sr">Krka - Zadar</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Sport 2">
-    <title lang="sr">SC Derby - Dubai</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Sport 2">
-    <title lang="sr">Buducnost - Mega</title>
-    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Sport 2">
-    <title lang="sr">SC Derby - Dubai</title>
+    <title lang="sr">Igokea -Borac</title>
     <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 2">
+    <title lang="sr">Buducnost - Mega</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 2">
+    <title lang="sr">Fenerbahce - Petkim Spor</title>
+    <desc lang="sr">Turska liga.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107163000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241107163000 +0100" stop="20241107170000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241107170000 +0100" stop="20241107190000 +0100" channel="Sport 2">
     <title lang="sr">FMP - Partizan</title>
     <desc lang="sr">ABA Liga.(n)</desc>
   </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 2">
+  <programme start="20241107190000 +0100" stop="20241107210000 +0100" channel="Sport 2">
     <title lang="sr">Crvena Zvezda - Olimpija</title>
     <desc lang="sr">ABA Liga.(n)</desc>
   </programme>
-  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 2">
-    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
-    <desc lang="sr">ABA 2.liga.(n)</desc>
-  </programme>
-  <programme start="20241107140000 +0100" stop="20241107143000 +0100" channel="Sport 2">
+  <programme start="20241107210000 +0100" stop="20241107213000 +0100" channel="Sport 2">
     <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241107143000 +0100" stop="20241107150000 +0100" channel="Sport 2">
+  <programme start="20241107213000 +0100" stop="20241107220000 +0100" channel="Sport 2">
     <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107150000 +0100" stop="20241107170000 +0100" channel="Sport 2">
-    <title lang="sr">Eczacibasi - Tent Obrenovac</title>
-    <desc lang="sr">CEV Liga prvakinja.(n)</desc>
-  </programme>
-  <programme start="20241107170000 +0100" stop="20241107173000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107173000 +0100" stop="20241107180000 +0100" channel="Sport 2">
-    <title lang="sr">Autoshop</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Sport 2">
-    <title lang="sr">Srbija - Latvija</title>
-    <desc lang="sr">Kvalifikacije za EP.(n)</desc>
-  </programme>
-  <programme start="20241107200000 +0100" stop="20241107220000 +0100" channel="Sport 2">
-    <title lang="sr">Fmp - Murcia</title>
-    <desc lang="sr">BCL.(n)</desc>
   </programme>
   <programme start="20241107220000 +0100" stop="20241107223000 +0100" channel="Sport 2">
     <title lang="sr">SPORTSKE IGRE MLADIH</title>
@@ -932,165 +1296,325 @@
     <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Sport 3">
-    <title lang="sr">Novi Pazar - IMT</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Sport 2">
+    <title lang="sr">Igokea -Borac</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Sport 3">
-    <title lang="sr">Crvena zvezda - Vojvodina</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Sport 3">
-    <title lang="sr">TSC - Partizan</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Sport 3">
-    <title lang="sr">Šibenik - Dinamo</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Sport 3">
-    <title lang="sr">Varaždin - Hajduk</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105163000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Sport 2">
+    <title lang="sr">Buducnost - Mega</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Sport 2">
+    <title lang="sr">Fenerbahce - Petkim Spor</title>
+    <desc lang="sr">Turska liga.(n)</desc>
+  </programme>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Sport 2">
+    <title lang="sr">FMP - Partizan</title>
+    <desc lang="sr">ABA Liga.(n)</desc>
+  </programme>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Sport 2">
+    <title lang="sr">Crvena Zvezda - Olimpija</title>
+    <desc lang="sr">ABA Liga.(n)</desc>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108200000 +0100" channel="Sport 2">
+    <title lang="sr">Helios Domžale - MZT Skopje</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
+  </programme>
+  <programme start="20241108200000 +0100" stop="20241108220000 +0100" channel="Sport 2">
+    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
+  </programme>
+  <programme start="20241108220000 +0100" stop="20241108223000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105163000 +0100" stop="20241105183000 +0100" channel="Sport 3">
-    <title lang="sr">Mladost - Spartak</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241105183000 +0100" stop="20241105203000 +0100" channel="Sport 3">
-    <title lang="sr">Čukarički - Železničar</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241105203000 +0100" stop="20241105223000 +0100" channel="Sport 3">
-    <title lang="sr">Levante - Malaga</title>
-    <desc lang="sr">Španska 2. liga.(n)</desc>
-  </programme>
-  <programme start="20241105223000 +0100" stop="20241105230000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241108223000 +0100" stop="20241108230000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241105233000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241108230000 +0100" stop="20241108233000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105233000 +0100" stop="20241106000000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241106000000 +0100" stop="20241106020000 +0100" channel="Sport 3">
-    <title lang="sr">Novi Pazar - IMT</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109000000 +0100" stop="20241109020000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241106020000 +0100" stop="20241106040000 +0100" channel="Sport 3">
-    <title lang="sr">Crvena zvezda - Vojvodina</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109020000 +0100" stop="20241109040000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241106040000 +0100" stop="20241106060000 +0100" channel="Sport 3">
-    <title lang="sr">TSC - Partizan</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Sport 2">
+    <title lang="sr">Buducnost - Mega</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Sport 3">
-    <title lang="sr">Crvena zvezda - Vojvodina</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
   </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Sport 3">
-    <title lang="sr">TSC - Partizan</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Sport 2">
+    <title lang="sr">FMP - Partizan</title>
+    <desc lang="sr">ABA Liga.(n)</desc>
   </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Sport 3">
-    <title lang="sr">Šibenik - Dinamo</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Sport 2">
+    <title lang="sr">Crvena Zvezda - Olimpija</title>
+    <desc lang="sr">ABA Liga.(n)</desc>
   </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Sport 3">
-    <title lang="sr">Varaždin - Hajduk</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Sport 2">
+    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
   </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Sport 3">
-    <title lang="sr">Novi Pazar - IMT</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Sport 3">
-    <title lang="sr">Mladost - Spartak</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Sport 3">
-    <title lang="sr">Čukarički - Železničar</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241106200000 +0100" stop="20241106203000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241109140000 +0100" stop="20241109143000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241106203000 +0100" stop="20241106210000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241109143000 +0100" stop="20241109150000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Sport 3">
-    <title lang="sr">Dortmund - Sturm</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
+  <programme start="20241109150000 +0100" stop="20241109170000 +0100" channel="Sport 2">
+    <title lang="sr">Eczacibasi - Tent Obrenovac</title>
+    <desc lang="sr">CEV Liga prvakinja.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241109170000 +0100" stop="20241109173000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
+  <programme start="20241109173000 +0100" stop="20241109180000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Sport 3">
-    <title lang="sr">TSC - Partizan</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  <programme start="20241109180000 +0100" stop="20241109200000 +0100" channel="Sport 2">
+    <title lang="sr">Srbija - Latvija</title>
+    <desc lang="sr">Kvalifikacije za EP.(n)</desc>
   </programme>
-  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Sport 3">
-    <title lang="sr">Šibenik - Dinamo</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241109200000 +0100" stop="20241109220000 +0100" channel="Sport 2">
+    <title lang="sr">Fmp - Murcia</title>
+    <desc lang="sr">BCL.(n)</desc>
   </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Sport 3">
-    <title lang="sr">Varaždin - Hajduk</title>
-    <desc lang="sr">HNL.(n)</desc>
+  <programme start="20241109220000 +0100" stop="20241109223000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109223000 +0100" stop="20241109230000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109230000 +0100" stop="20241109233000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109233000 +0100" stop="20241110000000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110000000 +0100" stop="20241110020000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110020000 +0100" stop="20241110040000 +0100" channel="Sport 2">
+    <title lang="sr">FMP - Partizan</title>
+    <desc lang="sr">ABA Liga:.(n)</desc>
+  </programme>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Sport 2">
+    <title lang="sr">Crvena Zvezda - Olimpija</title>
+    <desc lang="sr">ABA Liga:.(n)</desc>
+  </programme>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Sport 2">
+    <title lang="sr">Buducnost - Mega</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Sport 2">
+    <title lang="sr">Fenerbahce - Petkim Spor</title>
+    <desc lang="sr">Turska liga.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Sport 2">
+    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110163000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110163000 +0100" stop="20241110170000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110170000 +0100" stop="20241110173000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110173000 +0100" stop="20241110184500 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110210000 +0100" channel="Sport 2">
+    <title lang="sr">Elfsborg - Braga</title>
+    <desc lang="sr">Liga Evrope.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Sport 2">
+    <title lang="sr">Apoel - Fiorentina</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241110233000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110233000 +0100" stop="20241111000000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111000000 +0100" stop="20241111020000 +0100" channel="Sport 2">
+    <title lang="sr">Krka - Zadar</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111040000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111040000 +0100" stop="20241111060000 +0100" channel="Sport 2">
+    <title lang="sr">Buducnost - Mega</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Sport 2">
+    <title lang="sr">SC Derby - Dubai</title>
+    <desc lang="sr">ABA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Sport 2">
+    <title lang="sr">FMP - Partizan</title>
+    <desc lang="sr">ABA Liga:.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Sport 2">
+    <title lang="sr">Crvena Zvezda - Olimpija</title>
+    <desc lang="sr">ABA Liga:.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Sport 2">
+    <title lang="sr">Bosna Visit Sarajevo - Rabotnički</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Sport 2">
+    <title lang="sr">Crvena Zvezda - Olimpija</title>
+    <desc lang="sr">ABA Liga:.(n)</desc>
+  </programme>
+  <programme start="20241111160000 +0100" stop="20241111163000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111163000 +0100" stop="20241111170000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111170000 +0100" stop="20241111173000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111173000 +0100" stop="20241111193000 +0100" channel="Sport 2">
+    <title lang="sr">SKA - Soči</title>
+    <desc lang="sr">KHL.(n)</desc>
+  </programme>
+  <programme start="20241111193000 +0100" stop="20241111200000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111203000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111203000 +0100" stop="20241111210000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111210000 +0100" stop="20241111213000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111213000 +0100" stop="20241111220000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111220000 +0100" stop="20241111223000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111223000 +0100" stop="20241111230000 +0100" channel="Sport 2">
+    <title lang="sr">SPORTSKE IGRE MLADIH</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241111233000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111233000 +0100" stop="20241112000000 +0100" channel="Sport 2">
+    <title lang="sr">Autoshop</title>
+    <desc lang="sr">Emisija.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Sport 3">
-    <title lang="sr">TSC - Partizan</title>
+    <title lang="sr">Novi Pazar - IMT</title>
     <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Sport 3">
-    <title lang="sr">Šibenik - Dinamo</title>
-    <desc lang="sr">HNL.(n)</desc>
-  </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 3">
-    <title lang="sr">Varaždin - Hajduk</title>
-    <desc lang="sr">HNL.(n)</desc>
-  </programme>
-  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 3">
-    <title lang="sr">Novi Pazar - IMT</title>
-    <desc lang="sr">MozzartBet Superliga.(n)</desc>
-  </programme>
-  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 3">
     <title lang="sr">Crvena zvezda - Vojvodina</title>
     <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Sport 3">
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107163000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241107163000 +0100" stop="20241107183000 +0100" channel="Sport 3">
+    <title lang="sr">Mladost - Spartak</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241107183000 +0100" stop="20241107203000 +0100" channel="Sport 3">
     <title lang="sr">Čukarički - Železničar</title>
     <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Sport 3">
-    <title lang="sr">Vojvodina - Sutjeska</title>
-    <desc lang="sr">ABA 2.liga.(n)</desc>
+  <programme start="20241107203000 +0100" stop="20241107223000 +0100" channel="Sport 3">
+    <title lang="sr">Levante - Malaga</title>
+    <desc lang="sr">Španska 2. liga.(n)</desc>
   </programme>
-  <programme start="20241107200000 +0100" stop="20241107203000 +0100" channel="Sport 3">
+  <programme start="20241107223000 +0100" stop="20241107230000 +0100" channel="Sport 3">
     <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107203000 +0100" stop="20241107210000 +0100" channel="Sport 3">
-    <title lang="sr">Great Sporting Moments</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Sport 3">
-    <title lang="sr">Bayern - Benfica</title>
-    <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
   <programme start="20241107230000 +0100" stop="20241107233000 +0100" channel="Sport 3">
     <title lang="sr">Great Sporting Moments</title>
@@ -1100,165 +1624,297 @@
     <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105080000 +0100" channel="Sport 4">
-    <title lang="sr">Monaco - Angers</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105100000 +0100" channel="Sport 4">
-    <title lang="sr">PSG - Lens</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241105100000 +0100" stop="20241105120000 +0100" channel="Sport 4">
-    <title lang="sr">Brest - Nice</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105140000 +0100" channel="Sport 4">
-    <title lang="sr">St. Etienne - Strasbourg</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105160000 +0100" channel="Sport 4">
-    <title lang="sr">Toulouse - Reims</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105180000 +0100" channel="Sport 4">
-    <title lang="sr">Nantes - Marseille</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
   </programme>
-  <programme start="20241105180000 +0100" stop="20241105183000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Sport 3">
+    <title lang="sr">Mladost - Spartak</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108200000 +0100" channel="Sport 3">
+    <title lang="sr">Čukarički - Železničar</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241108200000 +0100" stop="20241108203000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105183000 +0100" stop="20241105203000 +0100" channel="Sport 4">
-    <title lang="sr">Parma - Genoa</title>
-    <desc lang="sr">Italijanska liga.(n)</desc>
-  </programme>
-  <programme start="20241105203000 +0100" stop="20241105223000 +0100" channel="Sport 4">
-    <title lang="sr">Zaglebie - Slask</title>
-    <desc lang="sr">Poljska liga.(n)</desc>
-  </programme>
-  <programme start="20241105223000 +0100" stop="20241105230000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
+  <programme start="20241108203000 +0100" stop="20241108210000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241105233000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241105233000 +0100" stop="20241106000000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106000000 +0100" stop="20241106020000 +0100" channel="Sport 4">
-    <title lang="sr">Monaco - Angers</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106020000 +0100" stop="20241106040000 +0100" channel="Sport 4">
-    <title lang="sr">PSG - Lens</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106040000 +0100" stop="20241106060000 +0100" channel="Sport 4">
-    <title lang="sr">Brest - Nice</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106060000 +0100" stop="20241106080000 +0100" channel="Sport 4">
-    <title lang="sr">PSG - Lens</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106080000 +0100" stop="20241106100000 +0100" channel="Sport 4">
-    <title lang="sr">Brest - Nice</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106100000 +0100" stop="20241106120000 +0100" channel="Sport 4">
-    <title lang="sr">St. Etienne - Strasbourg</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106120000 +0100" stop="20241106140000 +0100" channel="Sport 4">
-    <title lang="sr">Toulouse - Reims</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106140000 +0100" stop="20241106160000 +0100" channel="Sport 4">
-    <title lang="sr">Nantes - Marseille</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106160000 +0100" stop="20241106180000 +0100" channel="Sport 4">
-    <title lang="sr">Monaco - Angers</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106180000 +0100" stop="20241106200000 +0100" channel="Sport 4">
-    <title lang="sr">PSG - Lens</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241106200000 +0100" stop="20241106203000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106203000 +0100" stop="20241106210000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
-    <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241106210000 +0100" stop="20241106230000 +0100" channel="Sport 4">
-    <title lang="sr">Bologna - Monaco</title>
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Sport 3">
+    <title lang="sr">Dortmund - Sturm</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106230000 +0100" stop="20241106233000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
+  <programme start="20241108230000 +0100" stop="20241108233000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Sport 4">
-    <title lang="sr">Worldies</title>
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107020000 +0100" channel="Sport 4">
-    <title lang="sr">PSG - Lens</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241109000000 +0100" stop="20241109020000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
   </programme>
-  <programme start="20241107020000 +0100" stop="20241107040000 +0100" channel="Sport 4">
-    <title lang="sr">Brest - Nice</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241109020000 +0100" stop="20241109040000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
   </programme>
-  <programme start="20241107040000 +0100" stop="20241107060000 +0100" channel="Sport 4">
-    <title lang="sr">St. Etienne - Strasbourg</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241109140000 +0100" stop="20241109160000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241109160000 +0100" stop="20241109180000 +0100" channel="Sport 3">
+    <title lang="sr">Čukarički - Železničar</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241109180000 +0100" stop="20241109200000 +0100" channel="Sport 3">
+    <title lang="sr">Vojvodina - Sutjeska</title>
+    <desc lang="sr">ABA 2.liga.(n)</desc>
+  </programme>
+  <programme start="20241109200000 +0100" stop="20241109203000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109203000 +0100" stop="20241109210000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Sport 3">
+    <title lang="sr">Bayern - Benfica</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
+  </programme>
+  <programme start="20241109230000 +0100" stop="20241109233000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109233000 +0100" stop="20241110000000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110000000 +0100" stop="20241110020000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241110020000 +0100" stop="20241110040000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110180000 +0100" channel="Sport 3">
+    <title lang="sr">Mladost - Spartak</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241110180000 +0100" stop="20241110184500 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Sport 3">
+    <title lang="sr">Frankfurt - Slavia Prag</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Sport 3">
+    <title lang="sr">Hoffenheim - Lyon</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241110233000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110233000 +0100" stop="20241111000000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111000000 +0100" stop="20241111020000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111040000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241111040000 +0100" stop="20241111060000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Sport 3">
+    <title lang="sr">Crvena zvezda - Vojvodina</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Sport 3">
+    <title lang="sr">TSC - Partizan</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Sport 3">
+    <title lang="sr">Šibenik - Dinamo</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Sport 3">
+    <title lang="sr">Varaždin - Hajduk</title>
+    <desc lang="sr">HNL.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Sport 3">
+    <title lang="sr">Novi Pazar - IMT</title>
+    <desc lang="sr">MozzartBet Superliga.(n)</desc>
+  </programme>
+  <programme start="20241111160000 +0100" stop="20241111163000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111163000 +0100" stop="20241111170000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111170000 +0100" stop="20241111190000 +0100" channel="Sport 3">
+    <title lang="sr">Otelul - Botosani</title>
+    <desc lang="sr">Rumunska liga.(n)</desc>
+  </programme>
+  <programme start="20241111190000 +0100" stop="20241111193000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111193000 +0100" stop="20241111200000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111203000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111203000 +0100" stop="20241111223000 +0100" channel="Sport 3">
+    <title lang="sr">Pogon - Radomiak</title>
+    <desc lang="sr">Poljska liga:.(n)</desc>
+  </programme>
+  <programme start="20241111223000 +0100" stop="20241111230000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241111233000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111233000 +0100" stop="20241112000000 +0100" channel="Sport 3">
+    <title lang="sr">Great Sporting Moments</title>
+    <desc lang="sr">Emisija.(n)</desc>
   </programme>
   <programme start="20241107060000 +0100" stop="20241107080000 +0100" channel="Sport 4">
-    <title lang="sr">Brest - Nice</title>
+    <title lang="sr">Monaco - Angers</title>
     <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
   </programme>
   <programme start="20241107080000 +0100" stop="20241107100000 +0100" channel="Sport 4">
-    <title lang="sr">St. Etienne - Strasbourg</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 4">
-    <title lang="sr">Toulouse - Reims</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 4">
-    <title lang="sr">Nantes - Marseille</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 4">
-    <title lang="sr">Monaco - Angers</title>
-    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
-  </programme>
-  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Sport 4">
     <title lang="sr">PSG - Lens</title>
     <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
   </programme>
-  <programme start="20241107180000 +0100" stop="20241107200000 +0100" channel="Sport 4">
-    <title lang="sr">Monaco - Angers</title>
+  <programme start="20241107100000 +0100" stop="20241107120000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
     <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
   </programme>
-  <programme start="20241107200000 +0100" stop="20241107203000 +0100" channel="Sport 4">
+  <programme start="20241107120000 +0100" stop="20241107140000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107140000 +0100" stop="20241107160000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107160000 +0100" stop="20241107180000 +0100" channel="Sport 4">
+    <title lang="sr">Nantes - Marseille</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241107180000 +0100" stop="20241107183000 +0100" channel="Sport 4">
     <title lang="sr">Worldies</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241107203000 +0100" stop="20241107210000 +0100" channel="Sport 4">
+  <programme start="20241107183000 +0100" stop="20241107203000 +0100" channel="Sport 4">
+    <title lang="sr">Parma - Genoa</title>
+    <desc lang="sr">Italijanska liga.(n)</desc>
+  </programme>
+  <programme start="20241107203000 +0100" stop="20241107223000 +0100" channel="Sport 4">
+    <title lang="sr">Zaglebie - Slask</title>
+    <desc lang="sr">Poljska liga.(n)</desc>
+  </programme>
+  <programme start="20241107223000 +0100" stop="20241107230000 +0100" channel="Sport 4">
     <title lang="sr">Worldies</title>
     <desc lang="sr">Emisija.(n)</desc>
-  </programme>
-  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Sport 4">
-    <title lang="sr">Stuttgart - Atalanta</title>
-    <desc lang="sr">Liga prvaka:.(n)</desc>
   </programme>
   <programme start="20241107230000 +0100" stop="20241107233000 +0100" channel="Sport 4">
     <title lang="sr">Worldies</title>
@@ -1268,336 +1924,828 @@
     <title lang="sr">Worldies</title>
     <desc lang="sr">Emisija.(n)</desc>
   </programme>
-  <programme start="20241105060000 +0100" stop="20241105070000 +0100" channel="Sport 5">
+  <programme start="20241108000000 +0100" stop="20241108020000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108020000 +0100" stop="20241108040000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108040000 +0100" stop="20241108060000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108060000 +0100" stop="20241108080000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108080000 +0100" stop="20241108100000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108100000 +0100" stop="20241108120000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108120000 +0100" stop="20241108140000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108140000 +0100" stop="20241108160000 +0100" channel="Sport 4">
+    <title lang="sr">Nantes - Marseille</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108160000 +0100" stop="20241108180000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108200000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241108200000 +0100" stop="20241108203000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241108203000 +0100" stop="20241108210000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241108210000 +0100" stop="20241108230000 +0100" channel="Sport 4">
+    <title lang="sr">Bologna - Monaco</title>
+    <desc lang="sr">Liga prvaka.(n)</desc>
+  </programme>
+  <programme start="20241108230000 +0100" stop="20241108233000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109000000 +0100" stop="20241109020000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109020000 +0100" stop="20241109040000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109040000 +0100" stop="20241109060000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109060000 +0100" stop="20241109080000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109080000 +0100" stop="20241109100000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109100000 +0100" stop="20241109120000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109120000 +0100" stop="20241109140000 +0100" channel="Sport 4">
+    <title lang="sr">Nantes - Marseille</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109140000 +0100" stop="20241109160000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109160000 +0100" stop="20241109180000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109180000 +0100" stop="20241109200000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241109200000 +0100" stop="20241109203000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109203000 +0100" stop="20241109210000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Sport 4">
+    <title lang="sr">Stuttgart - Atalanta</title>
+    <desc lang="sr">Liga prvaka:.(n)</desc>
+  </programme>
+  <programme start="20241109230000 +0100" stop="20241109233000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241109233000 +0100" stop="20241110000000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110000000 +0100" stop="20241110020000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110020000 +0100" stop="20241110040000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110040000 +0100" stop="20241110060000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110060000 +0100" stop="20241110080000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110080000 +0100" stop="20241110100000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110100000 +0100" stop="20241110120000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110140000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110160000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110180000 +0100" channel="Sport 4">
+    <title lang="sr">Nantes - Marseille</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241110180000 +0100" stop="20241110184500 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110204500 +0100" channel="Sport 4">
+    <title lang="sr">Nice - Twente</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110204500 +0100" stop="20241110210000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Sport 4">
+    <title lang="sr">Vitoria Plzen - Real Sociedad</title>
+    <desc lang="sr">Europaliga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241110233000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241110233000 +0100" stop="20241111000000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111000000 +0100" stop="20241111020000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111040000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111040000 +0100" stop="20241111060000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111080000 +0100" channel="Sport 4">
+    <title lang="sr">PSG - Lens</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111080000 +0100" stop="20241111100000 +0100" channel="Sport 4">
+    <title lang="sr">Brest - Nice</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111120000 +0100" channel="Sport 4">
+    <title lang="sr">St. Etienne - Strasbourg</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111140000 +0100" channel="Sport 4">
+    <title lang="sr">Toulouse - Reims</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111160000 +0100" channel="Sport 4">
+    <title lang="sr">Nantes - Marseille</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111160000 +0100" stop="20241111180000 +0100" channel="Sport 4">
+    <title lang="sr">Monaco - Angers</title>
+    <desc lang="sr">FRANCUSKA LIGA.(n)</desc>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111183000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111183000 +0100" stop="20241111190000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111190000 +0100" stop="20241111193000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111193000 +0100" stop="20241111200000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111204500 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111204500 +0100" stop="20241111224500 +0100" channel="Sport 4">
+    <title lang="sr">Morton - AYR United</title>
+    <desc lang="sr">Škotska liga.(n)</desc>
+  </programme>
+  <programme start="20241111224500 +0100" stop="20241111233000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241111233000 +0100" stop="20241112000000 +0100" channel="Sport 4">
+    <title lang="sr">Worldies</title>
+    <desc lang="sr">Emisija.(n)</desc>
+  </programme>
+  <programme start="20241107060000 +0100" stop="20241107070000 +0100" channel="Sport 5">
     <title lang="sr">St. Petersburg</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241105070000 +0100" stop="20241105080000 +0100" channel="Sport 5">
+  <programme start="20241107070000 +0100" stop="20241107080000 +0100" channel="Sport 5">
     <title lang="sr">Long Beach</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241105080000 +0100" stop="20241105083000 +0100" channel="Sport 5">
+  <programme start="20241107080000 +0100" stop="20241107083000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105083000 +0100" stop="20241105090000 +0100" channel="Sport 5">
+  <programme start="20241107083000 +0100" stop="20241107090000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105090000 +0100" stop="20241105093000 +0100" channel="Sport 5">
+  <programme start="20241107090000 +0100" stop="20241107093000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105093000 +0100" stop="20241105103000 +0100" channel="Sport 5">
+  <programme start="20241107093000 +0100" stop="20241107103000 +0100" channel="Sport 5">
     <title lang="sr">Qatar</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241105103000 +0100" stop="20241105113000 +0100" channel="Sport 5">
+  <programme start="20241107103000 +0100" stop="20241107113000 +0100" channel="Sport 5">
     <title lang="sr">Croatia</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241105113000 +0100" stop="20241105120000 +0100" channel="Sport 5">
+  <programme start="20241107113000 +0100" stop="20241107120000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105120000 +0100" stop="20241105123000 +0100" channel="Sport 5">
+  <programme start="20241107120000 +0100" stop="20241107123000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105123000 +0100" stop="20241105130000 +0100" channel="Sport 5">
+  <programme start="20241107123000 +0100" stop="20241107130000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105130000 +0100" stop="20241105140000 +0100" channel="Sport 5">
+  <programme start="20241107130000 +0100" stop="20241107140000 +0100" channel="Sport 5">
     <title lang="sr">Kenya</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241105140000 +0100" stop="20241105150000 +0100" channel="Sport 5">
+  <programme start="20241107140000 +0100" stop="20241107150000 +0100" channel="Sport 5">
     <title lang="sr">Imola</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241105150000 +0100" stop="20241105153000 +0100" channel="Sport 5">
+  <programme start="20241107150000 +0100" stop="20241107153000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105153000 +0100" stop="20241105160000 +0100" channel="Sport 5">
+  <programme start="20241107153000 +0100" stop="20241107160000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105160000 +0100" stop="20241105163000 +0100" channel="Sport 5">
+  <programme start="20241107160000 +0100" stop="20241107163000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105163000 +0100" stop="20241105170000 +0100" channel="Sport 5">
+  <programme start="20241107163000 +0100" stop="20241107170000 +0100" channel="Sport 5">
     <title lang="sr">Sweden</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241105170000 +0100" stop="20241105190000 +0100" channel="Sport 5">
+  <programme start="20241107170000 +0100" stop="20241107190000 +0100" channel="Sport 5">
     <title lang="sr">Slobozia - Botosani</title>
     <desc lang="sr">Rumuska liga.(n)</desc>
   </programme>
-  <programme start="20241105190000 +0100" stop="20241105193000 +0100" channel="Sport 5">
+  <programme start="20241107190000 +0100" stop="20241107193000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105193000 +0100" stop="20241105204500 +0100" channel="Sport 5">
+  <programme start="20241107193000 +0100" stop="20241107204500 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105204500 +0100" stop="20241105223000 +0100" channel="Sport 5">
+  <programme start="20241107204500 +0100" stop="20241107223000 +0100" channel="Sport 5">
     <title lang="sr">Ajaccio - Metz</title>
     <desc lang="sr">Francuska 2.liga.(n)</desc>
   </programme>
-  <programme start="20241105223000 +0100" stop="20241105230000 +0100" channel="Sport 5">
+  <programme start="20241107223000 +0100" stop="20241107230000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105230000 +0100" stop="20241105233000 +0100" channel="Sport 5">
+  <programme start="20241107230000 +0100" stop="20241107233000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241105233000 +0100" stop="20241106003000 +0100" channel="Sport 5">
+  <programme start="20241107233000 +0100" stop="20241108003000 +0100" channel="Sport 5">
     <title lang="sr">Qatar</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241106003000 +0100" stop="20241106013000 +0100" channel="Sport 5">
+  <programme start="20241108003000 +0100" stop="20241108013000 +0100" channel="Sport 5">
     <title lang="sr">Croatia</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241106013000 +0100" stop="20241106020000 +0100" channel="Sport 5">
+  <programme start="20241108013000 +0100" stop="20241108020000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106020000 +0100" stop="20241106023000 +0100" channel="Sport 5">
+  <programme start="20241108020000 +0100" stop="20241108023000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106023000 +0100" stop="20241106030000 +0100" channel="Sport 5">
+  <programme start="20241108023000 +0100" stop="20241108030000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106030000 +0100" stop="20241106040000 +0100" channel="Sport 5">
+  <programme start="20241108030000 +0100" stop="20241108040000 +0100" channel="Sport 5">
     <title lang="sr">Kenya</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241106040000 +0100" stop="20241106050000 +0100" channel="Sport 5">
+  <programme start="20241108040000 +0100" stop="20241108050000 +0100" channel="Sport 5">
     <title lang="sr">Imola</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241106050000 +0100" stop="20241106053000 +0100" channel="Sport 5">
+  <programme start="20241108050000 +0100" stop="20241108053000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106053000 +0100" stop="20241106060000 +0100" channel="Sport 5">
+  <programme start="20241108053000 +0100" stop="20241108060000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106060000 +0100" stop="20241106063000 +0100" channel="Sport 5">
+  <programme start="20241108060000 +0100" stop="20241108063000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106063000 +0100" stop="20241106070000 +0100" channel="Sport 5">
+  <programme start="20241108063000 +0100" stop="20241108070000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106070000 +0100" stop="20241106073000 +0100" channel="Sport 5">
+  <programme start="20241108070000 +0100" stop="20241108073000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106073000 +0100" stop="20241106083000 +0100" channel="Sport 5">
+  <programme start="20241108073000 +0100" stop="20241108083000 +0100" channel="Sport 5">
     <title lang="sr">Qatar</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241106083000 +0100" stop="20241106093000 +0100" channel="Sport 5">
+  <programme start="20241108083000 +0100" stop="20241108093000 +0100" channel="Sport 5">
     <title lang="sr">Croatia</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241106093000 +0100" stop="20241106100000 +0100" channel="Sport 5">
+  <programme start="20241108093000 +0100" stop="20241108100000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106100000 +0100" stop="20241106103000 +0100" channel="Sport 5">
+  <programme start="20241108100000 +0100" stop="20241108103000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106103000 +0100" stop="20241106110000 +0100" channel="Sport 5">
+  <programme start="20241108103000 +0100" stop="20241108110000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106110000 +0100" stop="20241106120000 +0100" channel="Sport 5">
+  <programme start="20241108110000 +0100" stop="20241108120000 +0100" channel="Sport 5">
     <title lang="sr">Kenya</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241106120000 +0100" stop="20241106130000 +0100" channel="Sport 5">
+  <programme start="20241108120000 +0100" stop="20241108130000 +0100" channel="Sport 5">
     <title lang="sr">Imola</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241106130000 +0100" stop="20241106133000 +0100" channel="Sport 5">
+  <programme start="20241108130000 +0100" stop="20241108133000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106133000 +0100" stop="20241106140000 +0100" channel="Sport 5">
+  <programme start="20241108133000 +0100" stop="20241108140000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106140000 +0100" stop="20241106143000 +0100" channel="Sport 5">
+  <programme start="20241108140000 +0100" stop="20241108143000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106143000 +0100" stop="20241106153000 +0100" channel="Sport 5">
+  <programme start="20241108143000 +0100" stop="20241108153000 +0100" channel="Sport 5">
     <title lang="sr">Sweden</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241106153000 +0100" stop="20241106163000 +0100" channel="Sport 5">
+  <programme start="20241108153000 +0100" stop="20241108163000 +0100" channel="Sport 5">
     <title lang="sr">Hungary</title>
     <desc lang="sr">ERC.(n)</desc>
   </programme>
-  <programme start="20241106163000 +0100" stop="20241106170000 +0100" channel="Sport 5">
+  <programme start="20241108163000 +0100" stop="20241108170000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106170000 +0100" stop="20241106173000 +0100" channel="Sport 5">
+  <programme start="20241108170000 +0100" stop="20241108173000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106173000 +0100" stop="20241106181500 +0100" channel="Sport 5">
+  <programme start="20241108173000 +0100" stop="20241108181500 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106181500 +0100" stop="20241106200000 +0100" channel="Sport 5">
+  <programme start="20241108181500 +0100" stop="20241108200000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106200000 +0100" stop="20241106203000 +0100" channel="Sport 5">
+  <programme start="20241108200000 +0100" stop="20241108203000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106203000 +0100" stop="20241106210000 +0100" channel="Sport 5">
+  <programme start="20241108203000 +0100" stop="20241108210000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241106210000 +0100" stop="20241106233000 +0100" channel="Sport 5">
+  <programme start="20241108210000 +0100" stop="20241108233000 +0100" channel="Sport 5">
     <title lang="sr">Celtic - Leipzig</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241106233000 +0100" stop="20241107000000 +0100" channel="Sport 5">
+  <programme start="20241108233000 +0100" stop="20241109000000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107000000 +0100" stop="20241107003000 +0100" channel="Sport 5">
+  <programme start="20241109000000 +0100" stop="20241109003000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107003000 +0100" stop="20241107010000 +0100" channel="Sport 5">
+  <programme start="20241109003000 +0100" stop="20241109010000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107010000 +0100" stop="20241107020000 +0100" channel="Sport 5">
+  <programme start="20241109010000 +0100" stop="20241109020000 +0100" channel="Sport 5">
     <title lang="sr">Kenya</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241107020000 +0100" stop="20241107030000 +0100" channel="Sport 5">
+  <programme start="20241109020000 +0100" stop="20241109030000 +0100" channel="Sport 5">
     <title lang="sr">Imola</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241107030000 +0100" stop="20241107033000 +0100" channel="Sport 5">
+  <programme start="20241109030000 +0100" stop="20241109033000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107033000 +0100" stop="20241107040000 +0100" channel="Sport 5">
+  <programme start="20241109033000 +0100" stop="20241109040000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107040000 +0100" stop="20241107050000 +0100" channel="Sport 5">
+  <programme start="20241109040000 +0100" stop="20241109050000 +0100" channel="Sport 5">
     <title lang="sr">St. Petersburg</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241107050000 +0100" stop="20241107060000 +0100" channel="Sport 5">
+  <programme start="20241109050000 +0100" stop="20241109060000 +0100" channel="Sport 5">
     <title lang="sr">Long Beach</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241107060000 +0100" stop="20241107063000 +0100" channel="Sport 5">
+  <programme start="20241109060000 +0100" stop="20241109063000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107063000 +0100" stop="20241107070000 +0100" channel="Sport 5">
+  <programme start="20241109063000 +0100" stop="20241109070000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107070000 +0100" stop="20241107073000 +0100" channel="Sport 5">
+  <programme start="20241109070000 +0100" stop="20241109073000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107073000 +0100" stop="20241107083000 +0100" channel="Sport 5">
+  <programme start="20241109073000 +0100" stop="20241109083000 +0100" channel="Sport 5">
     <title lang="sr">Kenya</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241107083000 +0100" stop="20241107093000 +0100" channel="Sport 5">
+  <programme start="20241109083000 +0100" stop="20241109093000 +0100" channel="Sport 5">
     <title lang="sr">Imola</title>
     <desc lang="sr">WEC.(n)</desc>
   </programme>
-  <programme start="20241107093000 +0100" stop="20241107100000 +0100" channel="Sport 5">
+  <programme start="20241109093000 +0100" stop="20241109100000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107100000 +0100" stop="20241107103000 +0100" channel="Sport 5">
+  <programme start="20241109100000 +0100" stop="20241109103000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107103000 +0100" stop="20241107110000 +0100" channel="Sport 5">
+  <programme start="20241109103000 +0100" stop="20241109110000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107110000 +0100" stop="20241107120000 +0100" channel="Sport 5">
+  <programme start="20241109110000 +0100" stop="20241109120000 +0100" channel="Sport 5">
     <title lang="sr">Sweden</title>
     <desc lang="sr">WRC.(n)</desc>
   </programme>
-  <programme start="20241107120000 +0100" stop="20241107130000 +0100" channel="Sport 5">
+  <programme start="20241109120000 +0100" stop="20241109130000 +0100" channel="Sport 5">
     <title lang="sr">Hungary</title>
     <desc lang="sr">ERC.(n)</desc>
   </programme>
-  <programme start="20241107130000 +0100" stop="20241107133000 +0100" channel="Sport 5">
+  <programme start="20241109130000 +0100" stop="20241109133000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107133000 +0100" stop="20241107140000 +0100" channel="Sport 5">
+  <programme start="20241109133000 +0100" stop="20241109140000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107140000 +0100" stop="20241107143000 +0100" channel="Sport 5">
+  <programme start="20241109140000 +0100" stop="20241109143000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107143000 +0100" stop="20241107153000 +0100" channel="Sport 5">
+  <programme start="20241109143000 +0100" stop="20241109153000 +0100" channel="Sport 5">
     <title lang="sr">St. Petersburg</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241107153000 +0100" stop="20241107163000 +0100" channel="Sport 5">
+  <programme start="20241109153000 +0100" stop="20241109163000 +0100" channel="Sport 5">
     <title lang="sr">Long Beach</title>
     <desc lang="sr">IndyCar.(n)</desc>
   </programme>
-  <programme start="20241107163000 +0100" stop="20241107170000 +0100" channel="Sport 5">
+  <programme start="20241109163000 +0100" stop="20241109170000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107170000 +0100" stop="20241107173000 +0100" channel="Sport 5">
+  <programme start="20241109170000 +0100" stop="20241109173000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107173000 +0100" stop="20241107193000 +0100" channel="Sport 5">
+  <programme start="20241109173000 +0100" stop="20241109193000 +0100" channel="Sport 5">
     <title lang="sr">Vakifbank - Calcit Kamnik</title>
     <desc lang="sr">Liga prvakinja.(n)</desc>
   </programme>
-  <programme start="20241107193000 +0100" stop="20241107210000 +0100" channel="Sport 5">
+  <programme start="20241109193000 +0100" stop="20241109210000 +0100" channel="Sport 5">
     <title lang="sr">Great Sport Teams</title>
     <desc lang="sr">Great Sport Teams.(n)</desc>
   </programme>
-  <programme start="20241107210000 +0100" stop="20241107230000 +0100" channel="Sport 5">
+  <programme start="20241109210000 +0100" stop="20241109230000 +0100" channel="Sport 5">
     <title lang="sr">Feyenoord - Salzburg</title>
     <desc lang="sr">Liga prvaka.(n)</desc>
   </programme>
-  <programme start="20241107230000 +0100" stop="20241108000000 +0100" channel="Sport 5">
+  <programme start="20241109230000 +0100" stop="20241110000000 +0100" channel="Sport 5">
     <title lang="sr">Sweden</title>
     <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241110000000 +0100" stop="20241110010000 +0100" channel="Sport 5">
+    <title lang="sr">Hungary</title>
+    <desc lang="sr">ERC.(n)</desc>
+  </programme>
+  <programme start="20241110010000 +0100" stop="20241110013000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110013000 +0100" stop="20241110020000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110020000 +0100" stop="20241110023000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110023000 +0100" stop="20241110033000 +0100" channel="Sport 5">
+    <title lang="sr">St. Petersburg</title>
+    <desc lang="sr">IndyCar.(n)</desc>
+  </programme>
+  <programme start="20241110033000 +0100" stop="20241110043000 +0100" channel="Sport 5">
+    <title lang="sr">Long Beach</title>
+    <desc lang="sr">IndyCar.(n)</desc>
+  </programme>
+  <programme start="20241110043000 +0100" stop="20241110050000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110050000 +0100" stop="20241110053000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110053000 +0100" stop="20241110060000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110060000 +0100" stop="20241110070000 +0100" channel="Sport 5">
+    <title lang="sr">St. Petersburg</title>
+    <desc lang="sr">IndyCar.(n)</desc>
+  </programme>
+  <programme start="20241110070000 +0100" stop="20241110080000 +0100" channel="Sport 5">
+    <title lang="sr">Long Beach</title>
+    <desc lang="sr">IndyCar.(n)</desc>
+  </programme>
+  <programme start="20241110080000 +0100" stop="20241110083000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110083000 +0100" stop="20241110090000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110090000 +0100" stop="20241110093000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110093000 +0100" stop="20241110103000 +0100" channel="Sport 5">
+    <title lang="sr">Qatar</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241110103000 +0100" stop="20241110113000 +0100" channel="Sport 5">
+    <title lang="sr">Croatia</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241110113000 +0100" stop="20241110120000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110120000 +0100" stop="20241110123000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110123000 +0100" stop="20241110130000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110130000 +0100" stop="20241110140000 +0100" channel="Sport 5">
+    <title lang="sr">Kenya</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241110140000 +0100" stop="20241110150000 +0100" channel="Sport 5">
+    <title lang="sr">Imola</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241110150000 +0100" stop="20241110153000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110153000 +0100" stop="20241110160000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110160000 +0100" stop="20241110163000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110163000 +0100" stop="20241110173000 +0100" channel="Sport 5">
+    <title lang="sr">Sweden</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241110173000 +0100" stop="20241110184500 +0100" channel="Sport 5">
+    <title lang="sr">Hungary</title>
+    <desc lang="sr">ERC.(n)</desc>
+  </programme>
+  <programme start="20241110184500 +0100" stop="20241110210000 +0100" channel="Sport 5">
+    <title lang="sr">TSC - Lugano</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
+  </programme>
+  <programme start="20241110210000 +0100" stop="20241110230000 +0100" channel="Sport 5">
+    <title lang="sr">Betis - Celje</title>
+    <desc lang="sr">Konferencijska liga.(n)</desc>
+  </programme>
+  <programme start="20241110230000 +0100" stop="20241110233000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241110233000 +0100" stop="20241111003000 +0100" channel="Sport 5">
+    <title lang="sr">Qatar</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241111003000 +0100" stop="20241111013000 +0100" channel="Sport 5">
+    <title lang="sr">Croatia</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241111013000 +0100" stop="20241111020000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111020000 +0100" stop="20241111023000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111023000 +0100" stop="20241111030000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111030000 +0100" stop="20241111040000 +0100" channel="Sport 5">
+    <title lang="sr">Kenya</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241111040000 +0100" stop="20241111050000 +0100" channel="Sport 5">
+    <title lang="sr">Imola</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241111050000 +0100" stop="20241111053000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111053000 +0100" stop="20241111060000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111060000 +0100" stop="20241111063000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111063000 +0100" stop="20241111070000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111070000 +0100" stop="20241111073000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111073000 +0100" stop="20241111083000 +0100" channel="Sport 5">
+    <title lang="sr">Qatar</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241111083000 +0100" stop="20241111093000 +0100" channel="Sport 5">
+    <title lang="sr">Croatia</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241111093000 +0100" stop="20241111100000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111100000 +0100" stop="20241111103000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111103000 +0100" stop="20241111110000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111110000 +0100" stop="20241111120000 +0100" channel="Sport 5">
+    <title lang="sr">Kenya</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241111120000 +0100" stop="20241111130000 +0100" channel="Sport 5">
+    <title lang="sr">Imola</title>
+    <desc lang="sr">WEC.(n)</desc>
+  </programme>
+  <programme start="20241111130000 +0100" stop="20241111133000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111133000 +0100" stop="20241111140000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111140000 +0100" stop="20241111143000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111143000 +0100" stop="20241111153000 +0100" channel="Sport 5">
+    <title lang="sr">Sweden</title>
+    <desc lang="sr">WRC.(n)</desc>
+  </programme>
+  <programme start="20241111153000 +0100" stop="20241111163000 +0100" channel="Sport 5">
+    <title lang="sr">Hungary</title>
+    <desc lang="sr">ERC.(n)</desc>
+  </programme>
+  <programme start="20241111163000 +0100" stop="20241111170000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111170000 +0100" stop="20241111173000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111173000 +0100" stop="20241111180000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111200000 +0100" channel="Sport 5">
+    <title lang="sr">St. Petersburg</title>
+    <desc lang="sr">IndyCar.(n)</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111223000 +0100" channel="Sport 5">
+    <title lang="sr">Dinamo Buc. - Cluj</title>
+    <desc lang="sr">Rumunska liga.(n)</desc>
+  </programme>
+  <programme start="20241111223000 +0100" stop="20241111230000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111230000 +0100" stop="20241111233000 +0100" channel="Sport 5">
+    <title lang="sr">Great Sport Teams</title>
+    <desc lang="sr">Great Sport Teams.(n)</desc>
+  </programme>
+  <programme start="20241111233000 +0100" stop="20241112003000 +0100" channel="Sport 5">
+    <title lang="sr">Qatar</title>
+    <desc lang="sr">WEC.(n)</desc>
   </programme>
 </tv>
